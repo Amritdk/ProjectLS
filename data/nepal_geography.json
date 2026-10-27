@@ -1,0 +1,3475 @@
+[
+  {
+    "q": "Which neighbouring Chinese region lies directly north of Nepal?",
+    "a": "Tibet Autonomous Region",
+    "cat": "1. Location, Area & Boundaries"
+  },
+  {
+    "q": "नेपाल–भारत सीमा विवादित दुई क्षेत्रका नाम लेख्नुहोस्।",
+    "a": "Kalapani (with Limpiyadhura and Lipulekh) and Susta",
+    "cat": "1. Location, Area & Boundaries"
+  },
+  {
+    "q": "नेपाल–तिब्बत 'थापाथली सन्धि' कहिले भएको थियो?",
+    "a": "सन् १८५६ मा",
+    "cat": "1. Location, Area & Boundaries"
+  },
+  {
+    "q": "नेपालको पूर्वी सीमा तराईमा कुन ठाउँबाट सुरु हुन्छ (प्रमुख नाका)?",
+    "a": "काँकडभिट्टा (झापा)",
+    "cat": "1. Location, Area & Boundaries"
+  },
+  {
+    "q": "नेपालको उत्तर–दक्षिण औसत चौडाइ करिब कति छ?",
+    "a": "About 193 km (minimum about 145 km, maximum about 241 km)",
+    "cat": "1. Location, Area & Boundaries"
+  },
+  {
+    "q": "नेपाल–भारत सीमाको लम्बाइ करिब कति हो?",
+    "a": "करिब १,७५०–१,८८० किमी (स्रोतअनुसार फरक)",
+    "cat": "1. Location, Area & Boundaries"
+  },
+  {
+    "q": "Which Nepali border town lies opposite Raxaul in Bihar?",
+    "a": "Birgunj (Parsa)",
+    "cat": "1. Location, Area & Boundaries"
+  },
+  {
+    "q": "नेपालका करिब कतिवटा जिल्ला भारतसँग सीमा जोडिएका छन्?",
+    "a": "करिब २६ वटा",
+    "cat": "1. Location, Area & Boundaries"
+  },
+  {
+    "q": "नेपाल–भारत सीमामा नेपालगञ्जको सामुन्ने भारतको कुन नाका पर्छ?",
+    "a": "रुपैडिया (रुपैडिहा)",
+    "cat": "1. Location, Area & Boundaries"
+  },
+  {
+    "q": "What is the approximate area of Nepal's Terai as a share of the country (physiographic)?",
+    "a": "About 14%",
+    "cat": "1. Location, Area & Boundaries"
+  },
+  {
+    "q": "नेपाल–चीन सीमाको लम्बाइ करिब कति हो?",
+    "a": "करिब १,४१४–१,४३९ किमी (स्रोतअनुसार फरक)",
+    "cat": "1. Location, Area & Boundaries"
+  },
+  {
+    "q": "नेपालको प्रमाणिक समय (UTC +५:४५) कहिलेदेखि लागू भयो?",
+    "a": "सन् १९८६ जनवरी १ देखि",
+    "cat": "1. Location, Area & Boundaries"
+  },
+  {
+    "q": "In which year was the Treaty of Peace and Friendship between Nepal and India signed?",
+    "a": "1950 (31 July)",
+    "cat": "1. Location, Area & Boundaries"
+  },
+  {
+    "q": "Which two countries border Nepal?",
+    "a": "India (east, south and west) and China (north)",
+    "cat": "1. Location, Area & Boundaries"
+  },
+  {
+    "q": "Between which longitudes does Nepal lie?",
+    "a": "Approximately 80°4′E to 88°12′E",
+    "cat": "1. Location, Area & Boundaries"
+  },
+  {
+    "q": "In which year did Nepal publish a new map including Limpiyadhura, Lipulekh and Kalapani?",
+    "a": "2020 (Jestha 2077 BS)",
+    "cat": "1. Location, Area & Boundaries"
+  },
+  {
+    "q": "What are the approximate geographic coordinates of Kathmandu?",
+    "a": "About 27°42′N, 85°19′E",
+    "cat": "1. Location, Area & Boundaries"
+  },
+  {
+    "q": "What is the highest point of Nepal?",
+    "a": "सगरमाथा (८,८४८.८६ मिटर)",
+    "cat": "1. Location, Area & Boundaries"
+  },
+  {
+    "q": "नेपालसँग सीमा जोडिएका भारतीय राज्य कुन-कुन हुन्?",
+    "a": "Uttarakhand, Uttar Pradesh, Bihar, West Bengal and Sikkim",
+    "cat": "1. Location, Area & Boundaries"
+  },
+  {
+    "q": "नेपालको कुल क्षेत्रफल कति हो?",
+    "a": "१,४७,१८१ वर्ग किमी (पुरानो आधिकारिक); सन् २०२० को नयाँ नक्सासहित करिब १,४७,५१६ वर्ग किमी",
+    "cat": "1. Location, Area & Boundaries"
+  },
+  {
+    "q": "नेपाल–चीन व्यापारिक नाकाका दुई उदाहरण दिनुहोस्।",
+    "a": "रसुवागढी–केरुङ र तातोपानी–झाङमु (कोदारी)",
+    "cat": "1. Location, Area & Boundaries"
+  },
+  {
+    "q": "सुगौली सन्धि कसबीच भएको थियो?",
+    "a": "नेपाल र ब्रिटिश इस्ट इन्डिया कम्पनीबीच",
+    "cat": "1. Location, Area & Boundaries"
+  },
+  {
+    "q": "In which year was the Nepal–China boundary treaty signed?",
+    "a": "1961",
+    "cat": "1. Location, Area & Boundaries"
+  },
+  {
+    "q": "नेपालको आकार कस्तो छ?",
+    "a": "लगभग आयताकार (पूर्व–पश्चिम लामो र उत्तर–दक्षिण साँघुरो)",
+    "cat": "1. Location, Area & Boundaries"
+  },
+  {
+    "q": "Who named the Treaty that ended the Anglo-Nepal War, and where was it signed?",
+    "a": "सुगौली (बिहार) मा हस्ताक्षर भएको सुगौली सन्धि",
+    "cat": "1. Location, Area & Boundaries"
+  },
+  {
+    "q": "पूर्वपट्टि नेपाल कुन भारतीय राज्यसँग जोडिएको छ?",
+    "a": "सिक्किम र पश्चिम बंगाल",
+    "cat": "1. Location, Area & Boundaries"
+  },
+  {
+    "q": "सुगौली सन्धिअघि नेपालको सीमा कहाँदेखि कहाँसम्म फैलिएको थियो?",
+    "a": "From the Teesta river in the east to the Sutlej river in the west",
+    "cat": "1. Location, Area & Boundaries"
+  },
+  {
+    "q": "Which Nepali border town lies opposite Sunauli in Uttar Pradesh?",
+    "a": "Bhairahawa (Siddharthanagar, Rupandehi)",
+    "cat": "1. Location, Area & Boundaries"
+  },
+  {
+    "q": "नेपालको प्रमाणिक समय कुन देशान्तरमा आधारित छ?",
+    "a": "८६°१५' पूर्वी देशान्तर (गौरीशङ्कर हिमाल नजिकबाट जाने)",
+    "cat": "1. Location, Area & Boundaries"
+  },
+  {
+    "q": "Which river forms Nepal's eastern boundary with India?",
+    "a": "मेची नदी",
+    "cat": "1. Location, Area & Boundaries"
+  },
+  {
+    "q": "नेपालको पूर्व–पश्चिम लम्बाइ करिब कति छ?",
+    "a": "About 885 km",
+    "cat": "1. Location, Area & Boundaries"
+  },
+  {
+    "q": "Which river forms Nepal's western boundary with India?",
+    "a": "महाकाली नदी",
+    "cat": "1. Location, Area & Boundaries"
+  },
+  {
+    "q": "नेपालको सबैभन्दा पश्चिममा कुन नदी (महाकाली) पारि कुन भारतीय राज्य पर्छ?",
+    "a": "उत्तराखण्ड",
+    "cat": "1. Location, Area & Boundaries"
+  },
+  {
+    "q": "Between which latitudes does Nepal lie?",
+    "a": "Approximately 26°22′N to 30°27′N",
+    "cat": "1. Location, Area & Boundaries"
+  },
+  {
+    "q": "सुगौली सन्धिपछि नेपालले कुन-कुन भू-भाग गुमायो?",
+    "a": "सिक्किम, कुमाउँ, गढवाल र तराईको केही भाग",
+    "cat": "1. Location, Area & Boundaries"
+  },
+  {
+    "q": "नेपाल–चीन सीमा कुन भूभागमा पर्छ?",
+    "a": "मुख्यतः हिमालको उच्च पर्वतीय क्षेत्रमा (तिब्बत स्वायत्त क्षेत्रसँग)",
+    "cat": "1. Location, Area & Boundaries"
+  },
+  {
+    "q": "नेपाल कुन महादेशमा पर्छ?",
+    "a": "एसिया (दक्षिण एसिया)",
+    "cat": "1. Location, Area & Boundaries"
+  },
+  {
+    "q": "What does 'landlocked' mean?",
+    "a": "A country with no coastline on any sea or ocean",
+    "cat": "1. Location, Area & Boundaries"
+  },
+  {
+    "q": "नेपाल–भारतका प्रमुख नाकाका चार उदाहरण दिनुहोस्।",
+    "a": "काँकडभिट्टा, वीरगञ्ज (रक्सौल), भैरहवा (सुनौली), नेपालगञ्ज (रुपैडिया)",
+    "cat": "1. Location, Area & Boundaries"
+  },
+  {
+    "q": "नेपाल–चीन सीमामा कुन शहर नेपालतर्फको रसुवागढीको सामुन्ने पर्छ?",
+    "a": "Kerung (Gyirong), Tibet",
+    "cat": "1. Location, Area & Boundaries"
+  },
+  {
+    "q": "महेन्द्रनगर नाका (गढाचौकी) कुन जिल्लामा पर्छ?",
+    "a": "कञ्चनपुर",
+    "cat": "1. Location, Area & Boundaries"
+  },
+  {
+    "q": "Which treaty fixed Nepal's boundary after the Anglo-Nepal War?",
+    "a": "Treaty of Sugauli (signed 1815, ratified 1816)",
+    "cat": "1. Location, Area & Boundaries"
+  },
+  {
+    "q": "नेपाल कुन गोलार्द्धमा पर्छ?",
+    "a": "Northern and Eastern Hemisphere",
+    "cat": "1. Location, Area & Boundaries"
+  },
+  {
+    "q": "काठमाडौँ कुन अक्षांश र देशान्तरमा पर्छ?",
+    "a": "करिब २७°४२' उत्तर र ८५°१९' पूर्व",
+    "cat": "1. Location, Area & Boundaries"
+  },
+  {
+    "q": "स्थिति (location) का आधारमा नेपाल कस्तो देश हो?",
+    "a": "भूपरिवेष्ठित (समुद्र नछुने) देश",
+    "cat": "1. Location, Area & Boundaries"
+  },
+  {
+    "q": "What is Nepal's approximate share of the world's land area?",
+    "a": "About 0.03%",
+    "cat": "1. Location, Area & Boundaries"
+  },
+  {
+    "q": "नेपालको कुल जमिनको करिब कति प्रतिशत भूभाग हिमाल क्षेत्रमा पर्छ (भू-आकृतिअनुसार उच्च हिमाल)?",
+    "a": "करिब २३%",
+    "cat": "1. Location, Area & Boundaries"
+  },
+  {
+    "q": "नेपाल, भारत र चीनको पश्चिमी त्रिदेशीय सन्धिस्थल कहाँ पर्छ?",
+    "a": "लिपुलेक (कालापानी क्षेत्र नजिक)",
+    "cat": "1. Location, Area & Boundaries"
+  },
+  {
+    "q": "Which Indian ports does Nepal use for third-country trade?",
+    "a": "Kolkata (Haldia) and Visakhapatnam",
+    "cat": "1. Location, Area & Boundaries"
+  },
+  {
+    "q": "समुद्र सतहदेखि ८,८४८.८६ मिटर र ६० मिटरको उचाइ अन्तर कति हो?",
+    "a": "करिब ८,७८८ मिटर (कम दूरीमा ठूलो उचाइ अन्तर)",
+    "cat": "1. Location, Area & Boundaries"
+  },
+  {
+    "q": "नेपालको सबैभन्दा होचो स्थान कुन हो?",
+    "a": "झापाको केचना कवल (करिब ५९–७० मिटर)",
+    "cat": "1. Location, Area & Boundaries"
+  },
+  {
+    "q": "नेपालको पूर्वी सीमा सिक्किम र भारतको कुन अर्को ठाउँसँग जोडिन्छ?",
+    "a": "Darjeeling (West Bengal) and Sikkim",
+    "cat": "1. Location, Area & Boundaries"
+  },
+  {
+    "q": "भीमदत्तनगर (महेन्द्रनगर) कुन जिल्लाको सदरमुकाम हो?",
+    "a": "कञ्चनपुर",
+    "cat": "2. Administrative Divisions"
+  },
+  {
+    "q": "मधेश प्रदेशमा कतिवटा जिल्ला छन्?",
+    "a": "८",
+    "cat": "2. Administrative Divisions"
+  },
+  {
+    "q": "रारा ताल कुन प्रदेशमा पर्छ?",
+    "a": "कर्णाली प्रदेश (मुगु)",
+    "cat": "2. Administrative Divisions"
+  },
+  {
+    "q": "क्षेत्रफलका आधारमा सबैभन्दा सानो प्रदेश कुन हो?",
+    "a": "मधेश प्रदेश (करिब ९,६६१ वर्ग किमी)",
+    "cat": "2. Administrative Divisions"
+  },
+  {
+    "q": "What is the capital of Karnali Province?",
+    "a": "वीरेन्द्रनगर (सुर्खेत)",
+    "cat": "2. Administrative Divisions"
+  },
+  {
+    "q": "Which provinces of Nepal border China?",
+    "a": "Koshi, Bagmati, Gandaki, Karnali and Sudurpashchim",
+    "cat": "2. Administrative Divisions"
+  },
+  {
+    "q": "बागमती प्रदेशको राजधानी कुन हो?",
+    "a": "हेटौँडा",
+    "cat": "2. Administrative Divisions"
+  },
+  {
+    "q": "How many districts are there in Lumbini Province?",
+    "a": "12",
+    "cat": "2. Administrative Divisions"
+  },
+  {
+    "q": "जुम्ला (खलङ्गा) कुन जिल्लाको सदरमुकाम हो?",
+    "a": "जुम्ला",
+    "cat": "2. Administrative Divisions"
+  },
+  {
+    "q": "धुलिखेल कुन जिल्लाको सदरमुकाम हो?",
+    "a": "काभ्रेपलाञ्चोक",
+    "cat": "2. Administrative Divisions"
+  },
+  {
+    "q": "संघीय संरचनामा सरकारका कति तह छन्?",
+    "a": "तीन तह: संघ, प्रदेश र स्थानीय तह",
+    "cat": "2. Administrative Divisions"
+  },
+  {
+    "q": "गमगढी कुन जिल्लाको सदरमुकाम हो?",
+    "a": "मुगु",
+    "cat": "2. Administrative Divisions"
+  },
+  {
+    "q": "In which year was the present Constitution of Nepal promulgated?",
+    "a": "2015 (20 September; Asoj 3, 2072 BS)",
+    "cat": "2. Administrative Divisions"
+  },
+  {
+    "q": "Which district has the largest population?",
+    "a": "Kathmandu",
+    "cat": "2. Administrative Divisions"
+  },
+  {
+    "q": "काठमाडौँ उपत्यकाको क्षेत्रफल करिब कति छ?",
+    "a": "करिब ६६५ वर्ग किमी",
+    "cat": "2. Administrative Divisions"
+  },
+  {
+    "q": "फुङ्लिङ (ताप्लेजुङ) कुन जिल्लाको सदरमुकाम हो?",
+    "a": "ताप्लेजुङ",
+    "cat": "2. Administrative Divisions"
+  },
+  {
+    "q": "धनगढी कुन जिल्लाको सदरमुकाम हो?",
+    "a": "कैलाली",
+    "cat": "2. Administrative Divisions"
+  },
+  {
+    "q": "तम्घास कुन जिल्लाको सदरमुकाम हो?",
+    "a": "गुल्मी",
+    "cat": "2. Administrative Divisions"
+  },
+  {
+    "q": "चाइनपुर कुन जिल्लाको सदरमुकाम हो?",
+    "a": "बझाङ",
+    "cat": "2. Administrative Divisions"
+  },
+  {
+    "q": "सुदूरपश्चिम प्रदेशमा कतिवटा जिल्ला छन्?",
+    "a": "9",
+    "cat": "2. Administrative Divisions"
+  },
+  {
+    "q": "राजविराज कुन जिल्लाको सदरमुकाम हो?",
+    "a": "सप्तरी",
+    "cat": "2. Administrative Divisions"
+  },
+  {
+    "q": "कोशी प्रदेशमा कतिवटा जिल्ला छन्?",
+    "a": "14",
+    "cat": "2. Administrative Divisions"
+  },
+  {
+    "q": "नेपालको सबैभन्दा पश्चिमी जिल्ला कुन हो?",
+    "a": "दार्चुला",
+    "cat": "2. Administrative Divisions"
+  },
+  {
+    "q": "जोमसोम कुन जिल्लाको सदरमुकाम हो?",
+    "a": "मुस्ताङ",
+    "cat": "2. Administrative Divisions"
+  },
+  {
+    "q": "कर्णाली प्रदेशमा कतिवटा जिल्ला छन्?",
+    "a": "१०",
+    "cat": "2. Administrative Divisions"
+  },
+  {
+    "q": "घोराही कुन जिल्लाको सदरमुकाम हो?",
+    "a": "दाङ",
+    "cat": "2. Administrative Divisions"
+  },
+  {
+    "q": "काठमाडौँ उपत्यकाका तीन जिल्ला कुन-कुन हुन्?",
+    "a": "काठमाडौँ, ललितपुर र भक्तपुर",
+    "cat": "2. Administrative Divisions"
+  },
+  {
+    "q": "नेपालमा कतिवटा जिल्ला छन्?",
+    "a": "७७ वटा",
+    "cat": "2. Administrative Divisions"
+  },
+  {
+    "q": "मुस्ताङ कुन प्रदेशमा पर्छ?",
+    "a": "गण्डकी प्रदेश",
+    "cat": "2. Administrative Divisions"
+  },
+  {
+    "q": "नेपालका छ महानगरपालिका कुन-कुन हुन्?",
+    "a": "काठमाडौँ, ललितपुर, पोखरा, भरतपुर, विराटनगर र वीरगञ्ज",
+    "cat": "2. Administrative Divisions"
+  },
+  {
+    "q": "नेपालमा कतिवटा प्रदेश छन्?",
+    "a": "सातवटा",
+    "cat": "2. Administrative Divisions"
+  },
+  {
+    "q": "सिमीकोट कुन जिल्लाको सदरमुकाम हो?",
+    "a": "हुम्ला",
+    "cat": "2. Administrative Divisions"
+  },
+  {
+    "q": "नेपालको पछिल्लो (बाह्रौँ) राष्ट्रिय जनगणना कहिले भयो?",
+    "a": "२०७८ साल (सन् २०२१)",
+    "cat": "2. Administrative Divisions"
+  },
+  {
+    "q": "गण्डकी प्रदेशको राजधानी कुन हो?",
+    "a": "पोखरा",
+    "cat": "2. Administrative Divisions"
+  },
+  {
+    "q": "तानसेन कुन जिल्लाको सदरमुकाम हो?",
+    "a": "पाल्पा",
+    "cat": "2. Administrative Divisions"
+  },
+  {
+    "q": "अमरगढी कुन जिल्लाको सदरमुकाम हो?",
+    "a": "डडेल्धुरा",
+    "cat": "2. Administrative Divisions"
+  },
+  {
+    "q": "पुरानो प्रणालीमा नेपालमा कति विकास क्षेत्र थिए?",
+    "a": "पाँच: पूर्वाञ्चल, मध्यमाञ्चल, पश्चिमाञ्चल, मध्यपश्चिमाञ्चल र सुदूरपश्चिमाञ्चल",
+    "cat": "2. Administrative Divisions"
+  },
+  {
+    "q": "स्थानीय तहको वर्गीकरण (संख्यासहित) लेख्नुहोस्।",
+    "a": "महानगरपालिका ६, उपमहानगरपालिका ११, नगरपालिका २७६, गाउँपालिका ४६०",
+    "cat": "2. Administrative Divisions"
+  },
+  {
+    "q": "सल्लेरी कुन जिल्लाको सदरमुकाम हो?",
+    "a": "सोलुखुम्बु",
+    "cat": "2. Administrative Divisions"
+  },
+  {
+    "q": "काठमाडौँ महानगरपालिकामा कतिवटा वडा छन्?",
+    "a": "३२ वटा",
+    "cat": "2. Administrative Divisions"
+  },
+  {
+    "q": "नवलपरासी र रुकुम जिल्ला कसरी विभाजित भए?",
+    "a": "नवलपरासी (बर्दघाट सुस्ता पूर्व र पश्चिम) र रुकुम (पूर्व र पश्चिम) दुई-दुई भाग भए, जसपछि जिल्ला ७५ बाट ७७ भए",
+    "cat": "2. Administrative Divisions"
+  },
+  {
+    "q": "पुतलीबजार कुन जिल्लाको सदरमुकाम हो?",
+    "a": "स्याङ्जा",
+    "cat": "2. Administrative Divisions"
+  },
+  {
+    "q": "What is the capital of Sudurpashchim Province?",
+    "a": "Godawari (Kailali)",
+    "cat": "2. Administrative Divisions"
+  },
+  {
+    "q": "जलेश्वर कुन जिल्लाको सदरमुकाम हो?",
+    "a": "महोत्तरी",
+    "cat": "2. Administrative Divisions"
+  },
+  {
+    "q": "लुम्बिनी (बुद्धको जन्मस्थल) कुन प्रदेशमा पर्छ?",
+    "a": "लुम्बिनी प्रदेश (रुपन्देही)",
+    "cat": "2. Administrative Divisions"
+  },
+  {
+    "q": "सगरमाथा कुन प्रदेशमा पर्छ?",
+    "a": "कोशी प्रदेश (सोलुखुम्बु)",
+    "cat": "2. Administrative Divisions"
+  },
+  {
+    "q": "नेपालमा कतिवटा स्थानीय तह छन्?",
+    "a": "७५३ वटा",
+    "cat": "2. Administrative Divisions"
+  },
+  {
+    "q": "मलङ्गवा कुन जिल्लाको सदरमुकाम हो?",
+    "a": "सर्लाही",
+    "cat": "2. Administrative Divisions"
+  },
+  {
+    "q": "Name the seven provinces of Nepal.",
+    "a": "Koshi, Madhesh, Bagmati, Gandaki, Lumbini, Karnali and Sudurpashchim",
+    "cat": "2. Administrative Divisions"
+  },
+  {
+    "q": "चन्द्रागढी कुन जिल्लाको सदरमुकाम हो?",
+    "a": "झापा",
+    "cat": "2. Administrative Divisions"
+  },
+  {
+    "q": "Which is the smallest district of Nepal by area?",
+    "a": "Bhaktapur",
+    "cat": "2. Administrative Divisions"
+  },
+  {
+    "q": "When was 'Madhesh Province' formally named?",
+    "a": "2022 (the province was earlier called Province No. 2)",
+    "cat": "2. Administrative Divisions"
+  },
+  {
+    "q": "Which is the largest district of Nepal by area?",
+    "a": "Dolpa",
+    "cat": "2. Administrative Divisions"
+  },
+  {
+    "q": "Which province is almost entirely in the Terai?",
+    "a": "Madhesh Province",
+    "cat": "2. Administrative Divisions"
+  },
+  {
+    "q": "धुन्चे कुन जिल्लाको सदरमुकाम हो?",
+    "a": "रसुवा",
+    "cat": "2. Administrative Divisions"
+  },
+  {
+    "q": "खलङ्गा कुन जिल्लाको सदरमुकाम हो?",
+    "a": "दार्चुला",
+    "cat": "2. Administrative Divisions"
+  },
+  {
+    "q": "तौलिहवा कुन जिल्लाको सदरमुकाम हो?",
+    "a": "कपिलवस्तु",
+    "cat": "2. Administrative Divisions"
+  },
+  {
+    "q": "चरिकोट कुन जिल्लाको सदरमुकाम हो?",
+    "a": "दोलखा",
+    "cat": "2. Administrative Divisions"
+  },
+  {
+    "q": "मधेश प्रदेशको राजधानी कुन हो?",
+    "a": "जनकपुर",
+    "cat": "2. Administrative Divisions"
+  },
+  {
+    "q": "बेनी कुन जिल्लाको सदरमुकाम हो?",
+    "a": "म्याग्दी",
+    "cat": "2. Administrative Divisions"
+  },
+  {
+    "q": "कलैया कुन जिल्लाको सदरमुकाम हो?",
+    "a": "बारा",
+    "cat": "2. Administrative Divisions"
+  },
+  {
+    "q": "क्षेत्रफलका आधारमा सबैभन्दा ठूलो प्रदेश कुन हो?",
+    "a": "कर्णाली प्रदेश (करिब २७,९८४ वर्ग किमी)",
+    "cat": "2. Administrative Divisions"
+  },
+  {
+    "q": "बागमती प्रदेशमा कतिवटा जिल्ला छन्?",
+    "a": "13",
+    "cat": "2. Administrative Divisions"
+  },
+  {
+    "q": "नेपालमा पहिलो राष्ट्रिय जनगणना कहिले भएको थियो?",
+    "a": "1911 AD (1968 BS)",
+    "cat": "2. Administrative Divisions"
+  },
+  {
+    "q": "What is the capital of Lumbini Province?",
+    "a": "Deukhuri (Dang)",
+    "cat": "2. Administrative Divisions"
+  },
+  {
+    "q": "पोखरा महानगरपालिकामा कतिवटा वडा छन्?",
+    "a": "३३ वटा",
+    "cat": "2. Administrative Divisions"
+  },
+  {
+    "q": "चामे कुन जिल्लाको सदरमुकाम हो?",
+    "a": "मनाङ",
+    "cat": "2. Administrative Divisions"
+  },
+  {
+    "q": "कोशी प्रदेशको राजधानी कुन हो?",
+    "a": "विराटनगर",
+    "cat": "2. Administrative Divisions"
+  },
+  {
+    "q": "दुनै कुन जिल्लाको सदरमुकाम हो?",
+    "a": "डोल्पा",
+    "cat": "2. Administrative Divisions"
+  },
+  {
+    "q": "क्षेत्रफलका आधारमा सबैभन्दा ठूलो महानगरपालिका कुन हो?",
+    "a": "पोखरा महानगरपालिका (करिब ४६४ वर्ग किमी)",
+    "cat": "2. Administrative Divisions"
+  },
+  {
+    "q": "बेसीशहर कुन जिल्लाको सदरमुकाम हो?",
+    "a": "लमजुङ",
+    "cat": "2. Administrative Divisions"
+  },
+  {
+    "q": "गण्डकी प्रदेशमा कतिवटा जिल्ला छन्?",
+    "a": "११",
+    "cat": "2. Administrative Divisions"
+  },
+  {
+    "q": "दमौली कुन जिल्लाको सदरमुकाम हो?",
+    "a": "तनहुँ",
+    "cat": "2. Administrative Divisions"
+  },
+  {
+    "q": "इनरुवा कुन जिल्लाको सदरमुकाम हो?",
+    "a": "सुनसरी",
+    "cat": "2. Administrative Divisions"
+  },
+  {
+    "q": "पहाडमा बनेका प्रमुख उपत्यकाका दुई उदाहरण दिनुहोस्।",
+    "a": "काठमाडौँ उपत्यका र पोखरा उपत्यका",
+    "cat": "3. Physiographic Regions & Landforms"
+  },
+  {
+    "q": "काठमाडौँ उपत्यकाको समुद्र सतहबाट औसत उचाइ करिब कति छ?",
+    "a": "करिब १,३०० – १,४०० मिटर",
+    "cat": "3. Physiographic Regions & Landforms"
+  },
+  {
+    "q": "पहाडी क्षेत्रका उपत्यकामा थुप्रिएको माटो कस्तो हुन्छ?",
+    "a": "उर्वर ताल/नदीजन्य माटो",
+    "cat": "3. Physiographic Regions & Landforms"
+  },
+  {
+    "q": "चुरे (शिवालिक) पर्वत श्रृंखलाको उचाइ करिब कति हुन्छ?",
+    "a": "करिब ७०० देखि १,५०० मिटर",
+    "cat": "3. Physiographic Regions & Landforms"
+  },
+  {
+    "q": "तराईको माटो कस्तो हुन्छ?",
+    "a": "उर्वर जलोढ (एलुभियल) माटो",
+    "cat": "3. Physiographic Regions & Landforms"
+  },
+  {
+    "q": "चुरे पर्वतको दक्षिणी भाग र तराईबीचको सीमा कुन भ्रंशले बनाउँछ?",
+    "a": "मुख्य अग्रभाग भ्रंश (Main Frontal Thrust)",
+    "cat": "3. Physiographic Regions & Landforms"
+  },
+  {
+    "q": "How high is Phulchowki, the highest hill around Kathmandu Valley?",
+    "a": "About 2,782 m",
+    "cat": "3. Physiographic Regions & Landforms"
+  },
+  {
+    "q": "टेथिस सागर भनेको के हो?",
+    "a": "भारतीय र यूरेसियन प्लेटबीच पहिले रहेको प्राचीन सागर, जसको तलछटबाट हिमालय उठ्यो",
+    "cat": "3. Physiographic Regions & Landforms"
+  },
+  {
+    "q": "पोखरामा प्रसिद्ध दुई गुफाका नाम लेख्नुहोस्।",
+    "a": "महेन्द्र गुफा र गुप्तेश्वर गुफा",
+    "cat": "3. Physiographic Regions & Landforms"
+  },
+  {
+    "q": "हिमालयका कुन भागमा हिमनदीले ठूला उपत्यका खनेको छ?",
+    "a": "उच्च हिमाली क्षेत्रमा (जस्तै खुम्बु, लाङटाङ)",
+    "cat": "3. Physiographic Regions & Landforms"
+  },
+  {
+    "q": "What are the three ecological regions of Nepal from north to south?",
+    "a": "Himal (mountain), Pahad (hill) and Terai",
+    "cat": "3. Physiographic Regions & Landforms"
+  },
+  {
+    "q": "नेपाललाई सामान्यतया कति ठूला भौगोलिक क्षेत्रमा बाँडिन्छ?",
+    "a": "तीन: हिमाल, पहाड र तराई",
+    "cat": "3. Physiographic Regions & Landforms"
+  },
+  {
+    "q": "हिमालयले अहिले पनि बर्सेनि करिब कति उठिरहेको मानिन्छ?",
+    "a": "करिब ५ मिलिमिटर प्रतिवर्ष (स्रोतअनुसार केही फरक)",
+    "cat": "3. Physiographic Regions & Landforms"
+  },
+  {
+    "q": "What do MCT, MBT and MFT stand for in Himalayan geology?",
+    "a": "Main Central Thrust, Main Boundary Thrust and Main Frontal Thrust",
+    "cat": "3. Physiographic Regions & Landforms"
+  },
+  {
+    "q": "हिमालयको निर्माण कुन दुई प्लेटको ठक्करले भएको हो?",
+    "a": "भारतीय प्लेट र यूरेसियन प्लेट",
+    "cat": "3. Physiographic Regions & Landforms"
+  },
+  {
+    "q": "शालिग्राम (अम्मोनाइट जीवाश्म) नेपालको कुन नदी उपत्यकामा पाइन्छ?",
+    "a": "कालीगण्डकी नदी (मुक्तिनाथ क्षेत्र)",
+    "cat": "3. Physiographic Regions & Landforms"
+  },
+  {
+    "q": "हलेसी महादेव गुफा कुन जिल्लामा छ?",
+    "a": "खोटाङ",
+    "cat": "3. Physiographic Regions & Landforms"
+  },
+  {
+    "q": "चुरे संरक्षणका लागि कुन समिति/कार्यक्रम सञ्चालित छ?",
+    "a": "राष्ट्रपति चुरे-तराई मधेश संरक्षण विकास समिति",
+    "cat": "3. Physiographic Regions & Landforms"
+  },
+  {
+    "q": "चन्द्रागिरि पहाडको उचाइ करिब कति हो?",
+    "a": "करिब २,५५१ मिटर",
+    "cat": "3. Physiographic Regions & Landforms"
+  },
+  {
+    "q": "नेपालका हिमाल, पहाड र तराईको क्षेत्रफल प्रतिशत (पारिस्थितिक विभाजन) क्रमशः करिब कति छ?",
+    "a": "हिमाल करिब १५%, पहाड करिब ६८% र तराई करिब १७% (परम्परागत गणना)",
+    "cat": "3. Physiographic Regions & Landforms"
+  },
+  {
+    "q": "सिद्ध गुफा (बन्दीपुर) कुन जिल्लामा पर्छ?",
+    "a": "तनहुँ",
+    "cat": "3. Physiographic Regions & Landforms"
+  },
+  {
+    "q": "तराईको औसत चौडाइ करिब कति हुन्छ?",
+    "a": "करिब २६–३२ किमी",
+    "cat": "3. Physiographic Regions & Landforms"
+  },
+  {
+    "q": "तराईलाई नेपालको के भनिन्छ?",
+    "a": "अन्नको भण्डार",
+    "cat": "3. Physiographic Regions & Landforms"
+  },
+  {
+    "q": "नेपालको सबैभन्दा सुख्खा क्षेत्र कुन हो?",
+    "a": "मुस्ताङ (थक खोला क्षेत्र) — वृष्टिछायाँ क्षेत्र",
+    "cat": "3. Physiographic Regions & Landforms"
+  },
+  {
+    "q": "पोखरा उपत्यकामा विस्तृत ढुङ्गा-माटो थुप्रिनुको कारण के हो?",
+    "a": "हिमाली क्षेत्रबाट सेती नदीले बगाएर ल्याएको तलछट",
+    "cat": "3. Physiographic Regions & Landforms"
+  },
+  {
+    "q": "ट्रान्स-हिमालय क्षेत्रको विशेषता के हो?",
+    "a": "हिमालयको वृष्टिछायाँमा पर्ने भएकाले सुख्खा र कम वर्षा हुने क्षेत्र (मुस्ताङ, डोल्पा आदि)",
+    "cat": "3. Physiographic Regions & Landforms"
+  },
+  {
+    "q": "Which is the youngest mountain range in Nepal?",
+    "a": "Siwalik (Chure) range",
+    "cat": "3. Physiographic Regions & Landforms"
+  },
+  {
+    "q": "What is a river terrace?",
+    "a": "A flat step-like landform formed when a river cuts down into its former floodplain",
+    "cat": "3. Physiographic Regions & Landforms"
+  },
+  {
+    "q": "हिमाली क्षेत्रको सबैभन्दा माथिल्लो हिमाच्छादित पेटीलाई के भनिन्छ?",
+    "a": "Nival zone",
+    "cat": "3. Physiographic Regions & Landforms"
+  },
+  {
+    "q": "भारतीय प्लेट बर्सेनि उत्तरतर्फ करिब कति सर्छ?",
+    "a": "About 4-5 cm per year",
+    "cat": "3. Physiographic Regions & Landforms"
+  },
+  {
+    "q": "हिमालय निर्माण करिब कति वर्षअघि सुरु भएको मानिन्छ?",
+    "a": "करिब ५ करोड वर्षअघि",
+    "cat": "3. Physiographic Regions & Landforms"
+  },
+  {
+    "q": "नगरकोटको उचाइ करिब कति हो र यो के का लागि प्रसिद्ध छ?",
+    "a": "करिब २,१७५ मिटर; हिमाल र सूर्योदय हेर्न प्रसिद्ध",
+    "cat": "3. Physiographic Regions & Landforms"
+  },
+  {
+    "q": "पोखराको 'डेभिस फल' (पाताले छाङ्गो) को विशेषता के हो?",
+    "a": "यो झरना भूमिगत सुरुङमा हराउँछ",
+    "cat": "3. Physiographic Regions & Landforms"
+  },
+  {
+    "q": "काठमाडौँ उपत्यका पहिले के थियो भन्ने भूगर्भीय मान्यता छ?",
+    "a": "विशाल तालको बेसिन",
+    "cat": "3. Physiographic Regions & Landforms"
+  },
+  {
+    "q": "Name two Himalayan districts of Nepal.",
+    "a": "मुस्ताङ, मनाङ, सोलुखुम्बु, दोल्पा, हुम्ला (कुनै दुई)",
+    "cat": "3. Physiographic Regions & Landforms"
+  },
+  {
+    "q": "तराईको उचाइ करिब कति हुन्छ?",
+    "a": "करिब ६० देखि ३०० मिटर",
+    "cat": "3. Physiographic Regions & Landforms"
+  },
+  {
+    "q": "माथिल्लो मुस्ताङको कागबेनी र कालीगण्डकीको विशेषता के हो?",
+    "a": "शालिग्राम (अम्मोनाइट) पाइने प्रसिद्ध नदी उपत्यका",
+    "cat": "3. Physiographic Regions & Landforms"
+  },
+  {
+    "q": "Which landform forms Nepal's southern plain?",
+    "a": "Terai (part of the Indo-Gangetic plain)",
+    "cat": "3. Physiographic Regions & Landforms"
+  },
+  {
+    "q": "Which kind of rock mostly forms the Siwalik range?",
+    "a": "Sandstone, mudstone and conglomerate (young sedimentary rocks)",
+    "cat": "3. Physiographic Regions & Landforms"
+  },
+  {
+    "q": "शिवपुरी पहाडको उचाइ करिब कति हो?",
+    "a": "करिब २,७३२ मिटर",
+    "cat": "3. Physiographic Regions & Landforms"
+  },
+  {
+    "q": "'टार' भन्ने शब्दले के जनाउँछ?",
+    "a": "A flat river terrace or tableland in the hills",
+    "cat": "3. Physiographic Regions & Landforms"
+  },
+  {
+    "q": "'खोला' र 'खोल्सा'मा के फरक हुन्छ?",
+    "a": "खोला मध्यम आकारको नदी हो; खोल्सा सानो नाला/कुलो",
+    "cat": "3. Physiographic Regions & Landforms"
+  },
+  {
+    "q": "महाभारत पर्वत श्रृंखलाको उचाइ करिब कति हुन्छ?",
+    "a": "करिब १,५०० देखि २,७०० मिटर",
+    "cat": "3. Physiographic Regions & Landforms"
+  },
+  {
+    "q": "चुरे क्षेत्रमा भू-क्षय बढी हुनुको कारण के हो?",
+    "a": "कमजोर चट्टान, भिरालो जमिन, वन विनाश र अनियन्त्रित उत्खनन",
+    "cat": "3. Physiographic Regions & Landforms"
+  },
+  {
+    "q": "हिमाल क्षेत्र सुरु हुने हिमरेखा करिब कति उचाइमा हुन्छ?",
+    "a": "करिब ४,८७७ मिटर (१६,००० फिट) भन्दा माथि",
+    "cat": "3. Physiographic Regions & Landforms"
+  },
+  {
+    "q": "भू-आकृतिअनुसार नेपाललाई कति क्षेत्रमा बाँडिन्छ?",
+    "a": "पाँच: उच्च हिमाल, उच्च पहाड, मध्य पहाड, शिवालिक (चुरे) र तराई",
+    "cat": "3. Physiographic Regions & Landforms"
+  },
+  {
+    "q": "म्याग्दीको प्रसिद्ध तातोपानी कुन प्रयोजनका लागि चर्चित छ?",
+    "a": "प्राकृतिक तातोपानी (तातो मूल) र स्नान/उपचारका लागि",
+    "cat": "3. Physiographic Regions & Landforms"
+  },
+  {
+    "q": "चुरेको फेदमा नदी भूमिगत हुने ढुङ्गा-बालुवाको पेटीलाई के भनिन्छ?",
+    "a": "भावर क्षेत्र",
+    "cat": "3. Physiographic Regions & Landforms"
+  },
+  {
+    "q": "हिमालयको भूगर्भीय चार विभाजन (दक्षिणबाट उत्तर) के के हुन्?",
+    "a": "Siwalik (Sub-Himalaya), Lesser Himalaya, Greater (Higher) Himalaya and Tethys (Tibetan) Himalaya",
+    "cat": "3. Physiographic Regions & Landforms"
+  },
+  {
+    "q": "काठमाडौँ उपत्यकाबाट बागमती नदी बाहिरिने गल्छी कुन हो?",
+    "a": "चोभार गल्छी",
+    "cat": "3. Physiographic Regions & Landforms"
+  },
+  {
+    "q": "पोखरा उपत्यकाको उचाइ करिब कति हो?",
+    "a": "करिब ८०० मिटर (८२७ मिटर)",
+    "cat": "3. Physiographic Regions & Landforms"
+  },
+  {
+    "q": "नेपालका पहाडी क्षेत्रमा 'लेक' भनेको के हो?",
+    "a": "अग्लो पर्वतीय भू-भाग/पहाडी श्रृंखला",
+    "cat": "3. Physiographic Regions & Landforms"
+  },
+  {
+    "q": "पहाडी क्षेत्रमा खेतीका लागि भिरालो जमिनमा बनाइने तहहरूलाई के भनिन्छ?",
+    "a": "सिँढीखेती (टार / पाखा)",
+    "cat": "3. Physiographic Regions & Landforms"
+  },
+  {
+    "q": "चुरे र महाभारतबीचका समथर उर्वर उपत्यकालाई के भनिन्छ?",
+    "a": "भित्री मधेश (दुन उपत्यका), जस्तै चितवन, दाङ र सुर्खेत",
+    "cat": "3. Physiographic Regions & Landforms"
+  },
+  {
+    "q": "What is a 'dun' valley in Nepal?",
+    "a": "A longitudinal flat valley between the Siwalik and Mahabharat ranges (e.g. Chitwan, Dang, Surkhet)",
+    "cat": "3. Physiographic Regions & Landforms"
+  },
+  {
+    "q": "सगरमाथा क्षेत्रका लोकप्रिय तीन भञ्ज्याङ कुन हुन्?",
+    "a": "चो ला, कोङ्मा ला र रेन्जो ला",
+    "cat": "4. Himal, Peaks & Passes"
+  },
+  {
+    "q": "कुन हिमाल श्रृङ्खला काठमाडौँ उपत्यकाबाट उत्तरतर्फ राम्ररी देखिन्छ?",
+    "a": "Langtang and Ganesh Himal",
+    "cat": "4. Himal, Peaks & Passes"
+  },
+  {
+    "q": "लाङटाङ लिरुङ हिमालको उचाइ करिब कति हो?",
+    "a": "करिब ७,२२७ मिटर",
+    "cat": "4. Himal, Peaks & Passes"
+  },
+  {
+    "q": "सगरमाथा चुचुरोमा पहिलो पटक पुग्ने नेपाली शेर्पा को हुन्?",
+    "a": "तेन्जिङ नोर्गे शेर्पा",
+    "cat": "4. Himal, Peaks & Passes"
+  },
+  {
+    "q": "अन्नपूर्ण शब्दको अर्थ के हो?",
+    "a": "'अन्नकी देवी' (अन्नले भरिपूर्ण)",
+    "cat": "4. Himal, Peaks & Passes"
+  },
+  {
+    "q": "गोक्यो रीको उचाइ करिब कति छ?",
+    "a": "करिब ५,३५७ मिटर",
+    "cat": "4. Himal, Peaks & Passes"
+  },
+  {
+    "q": "रोल्वालिङ क्षेत्र कुन जिल्लामा छ?",
+    "a": "दोलखा",
+    "cat": "4. Himal, Peaks & Passes"
+  },
+  {
+    "q": "लिपुलेक भञ्ज्याङ कुन तीन देशको सिमाना नजिक पर्छ?",
+    "a": "नेपाल, भारत र चीन",
+    "cat": "4. Himal, Peaks & Passes"
+  },
+  {
+    "q": "घोरेपानी–पुनहिल ट्रेक कुन जिल्लामा पर्छ?",
+    "a": "म्याग्दी",
+    "cat": "4. Himal, Peaks & Passes"
+  },
+  {
+    "q": "विश्वको पाँचौँ अग्लो हिमाल कुन हो?",
+    "a": "मकालु (८,४८५ मिटर)",
+    "cat": "4. Himal, Peaks & Passes"
+  },
+  {
+    "q": "लाङटाङ ट्रेक कुन ठाउँबाट सुरु हुन्छ?",
+    "a": "स्याफ्रुबेंसी (रसुवा)",
+    "cat": "4. Himal, Peaks & Passes"
+  },
+  {
+    "q": "What is the Khumbu region famous for?",
+    "a": "Sagarmatha National Park, Sherpa culture and the Everest Base Camp trek",
+    "cat": "4. Himal, Peaks & Passes"
+  },
+  {
+    "q": "हिमालचुलीको उचाइ करिब कति हो?",
+    "a": "करिब ७,८९३ मिटर",
+    "cat": "4. Himal, Peaks & Passes"
+  },
+  {
+    "q": "Who is known as the first Nepali woman to climb Everest?",
+    "a": "पासाङ ल्हामु शेर्पा (सन् १९९३)",
+    "cat": "4. Himal, Peaks & Passes"
+  },
+  {
+    "q": "Which airport serves the Everest region?",
+    "a": "लुक्लाको तेन्जिङ–हिलारी विमानस्थल",
+    "cat": "4. Himal, Peaks & Passes"
+  },
+  {
+    "q": "अपर मुस्ताङ (लो) राज्य कहिलेसम्म अस्तित्वमा रह्यो?",
+    "a": "सन् २००८ सम्म (२०६५ सालमा राजतन्त्र अन्त्यपछि)",
+    "cat": "4. Himal, Peaks & Passes"
+  },
+  {
+    "q": "What is the height of Annapurna Base Camp (ABC)?",
+    "a": "About 4,130 m",
+    "cat": "4. Himal, Peaks & Passes"
+  },
+  {
+    "q": "हिमालचुली र मनास्लुजस्ता हिमाल कुन हिमश्रृङ्खलामा पर्छन्?",
+    "a": "मनास्लु (मन्सिरी) हिमाल क्षेत्र",
+    "cat": "4. Himal, Peaks & Passes"
+  },
+  {
+    "q": "मनास्लु सर्किट ट्रेकमा कुन भञ्ज्याङ पार गरिन्छ?",
+    "a": "लार्के ला (करिब ५,१०६ मिटर)",
+    "cat": "4. Himal, Peaks & Passes"
+  },
+  {
+    "q": "जन्नु (कुम्भकर्ण) हिमाल कुन क्षेत्रमा पर्छ?",
+    "a": "कञ्चनजङ्घा हिमाल क्षेत्र (पूर्वी नेपाल)",
+    "cat": "4. Himal, Peaks & Passes"
+  },
+  {
+    "q": "नुप्त्से हिमालको उचाइ करिब कति हो?",
+    "a": "करिब ७,८६१ मिटर",
+    "cat": "4. Himal, Peaks & Passes"
+  },
+  {
+    "q": "गौरीशङ्कर हिमालको उचाइ करिब कति छ?",
+    "a": "करिब ७,१३४ मिटर",
+    "cat": "4. Himal, Peaks & Passes"
+  },
+  {
+    "q": "थोराङ ला भञ्ज्याङको उचाइ करिब कति हो?",
+    "a": "करिब ५,४१६ मिटर",
+    "cat": "4. Himal, Peaks & Passes"
+  },
+  {
+    "q": "कञ्चनजङ्घा संरक्षण क्षेत्र कुन जिल्लामा पर्छ?",
+    "a": "ताप्लेजुङ",
+    "cat": "4. Himal, Peaks & Passes"
+  },
+  {
+    "q": "सगरमाथा आधार शिविर (नेपाल तर्फ) को उचाइ करिब कति छ?",
+    "a": "करिब ५,३६४ मिटर",
+    "cat": "4. Himal, Peaks & Passes"
+  },
+  {
+    "q": "सगरमाथाको नयाँ आधिकारिक उचाइ कति हो र कहिले घोषणा गरियो?",
+    "a": "८,८४८.८६ मिटर (सन् २०२० डिसेम्बर, नेपाल र चीनले संयुक्त रूपमा)",
+    "cat": "4. Himal, Peaks & Passes"
+  },
+  {
+    "q": "मुक्तिनाथ मन्दिरको उचाइ करिब कति छ?",
+    "a": "करिब ३,७१० मिटर",
+    "cat": "4. Himal, Peaks & Passes"
+  },
+  {
+    "q": "विश्वको दसौँ अग्लो हिमाल कुन हो?",
+    "a": "अन्नपूर्ण पहिलो (८,०९१ मिटर)",
+    "cat": "4. Himal, Peaks & Passes"
+  },
+  {
+    "q": "Which Nepali climber completed all fourteen 8,000 m peaks in six months and six days in 2019?",
+    "a": "Nirmal Purja (Project Possible)",
+    "cat": "4. Himal, Peaks & Passes"
+  },
+  {
+    "q": "नाम्चे बजार कुन जिल्लामा पर्छ?",
+    "a": "सोलुखुम्बु",
+    "cat": "4. Himal, Peaks & Passes"
+  },
+  {
+    "q": "शेर्पा समुदाय प्रायः कुन क्षेत्रमा बसोबास गर्छ?",
+    "a": "सोलुखुम्बु (खुम्बु) लगायतका उच्च हिमाली क्षेत्र",
+    "cat": "4. Himal, Peaks & Passes"
+  },
+  {
+    "q": "हिमालयलाई चिरेर बग्ने नेपालको पूर्वसर्गी नदीको उदाहरण दिनुहोस्।",
+    "a": "अरुण नदी (तिब्बतबाट हिमाल काटेर नेपाल प्रवेश)",
+    "cat": "4. Himal, Peaks & Passes"
+  },
+  {
+    "q": "Who was the first woman to climb Everest?",
+    "a": "Junko Tabei of Japan (1975)",
+    "cat": "4. Himal, Peaks & Passes"
+  },
+  {
+    "q": "नेपालमा आठ हजार मिटरभन्दा अग्ला कतिवटा हिमशिखर छन्?",
+    "a": "आठ वटा (पूर्ण वा आंशिक)",
+    "cat": "4. Himal, Peaks & Passes"
+  },
+  {
+    "q": "Who made the first ascent of Everest, and when?",
+    "a": "Edmund Hillary and Tenzing Norgay, 29 May 1953",
+    "cat": "4. Himal, Peaks & Passes"
+  },
+  {
+    "q": "विश्वको छैटौँ अग्लो हिमाल कुन हो?",
+    "a": "चो ओयु (८,१८८ मिटर)",
+    "cat": "4. Himal, Peaks & Passes"
+  },
+  {
+    "q": "Which peak is called the 'Fish Tail' of Nepal?",
+    "a": "Machhapuchhre (6,993 m)",
+    "cat": "4. Himal, Peaks & Passes"
+  },
+  {
+    "q": "भञ्ज्याङ भनेको के हो?",
+    "a": "दुई पहाडबीचको होचो ठाउँ जहाँबाट मानिस वा पशु पार हुन सक्छ",
+    "cat": "4. Himal, Peaks & Passes"
+  },
+  {
+    "q": "विश्वको चौथो अग्लो हिमाल कुन हो?",
+    "a": "ल्होत्से (८,५१६ मिटर)",
+    "cat": "4. Himal, Peaks & Passes"
+  },
+  {
+    "q": "पुमोरीको उचाइ करिब कति हो?",
+    "a": "करिब ७,१६१ मिटर",
+    "cat": "4. Himal, Peaks & Passes"
+  },
+  {
+    "q": "पर्वतारोहण सम्बन्धी 'आधार शिविर' भनेको के हो?",
+    "a": "हिमाल आरोहणका लागि तयारी गरिने अग्लो ठाउँको मुख्य शिविर",
+    "cat": "4. Himal, Peaks & Passes"
+  },
+  {
+    "q": "विश्वको आठौँ अग्लो हिमाल कुन हो?",
+    "a": "मनास्लु (८,१६३ मिटर)",
+    "cat": "4. Himal, Peaks & Passes"
+  },
+  {
+    "q": "सगरमाथा आधार शिविर ट्रेकमा प्रायः कुन ठाउँबाट पदयात्रा सुरु हुन्छ?",
+    "a": "लुक्ला (फाक्डिङ)",
+    "cat": "4. Himal, Peaks & Passes"
+  },
+  {
+    "q": "Which was the first 8,000 m peak ever climbed (1950, French expedition)?",
+    "a": "Annapurna I",
+    "cat": "4. Himal, Peaks & Passes"
+  },
+  {
+    "q": "मनास्लु ट्रेक प्रायः कुन ठाउँबाट सुरु हुन्छ?",
+    "a": "सोती खोला / माच्छा खोला (गोरखा)",
+    "cat": "4. Himal, Peaks & Passes"
+  },
+  {
+    "q": "नाङ्पा ला कुन दुई क्षेत्रलाई जोड्ने भञ्ज्याङ हो?",
+    "a": "Khumbu (Nepal) and Tibet",
+    "cat": "4. Himal, Peaks & Passes"
+  },
+  {
+    "q": "Which trekking route crosses Thorong La?",
+    "a": "Annapurna Circuit",
+    "cat": "4. Himal, Peaks & Passes"
+  },
+  {
+    "q": "कालापत्थरको उचाइ करिब कति छ?",
+    "a": "करिब ५,५४५ मिटर",
+    "cat": "4. Himal, Peaks & Passes"
+  },
+  {
+    "q": "विश्वको तेस्रो अग्लो हिमाल कुन हो?",
+    "a": "कञ्चनजङ्घा (८,५८६ मिटर)",
+    "cat": "4. Himal, Peaks & Passes"
+  },
+  {
+    "q": "गणेश हिमालको सबैभन्दा अग्लो शिखर कति मिटर अग्लो छ?",
+    "a": "करिब ७,४२२ मिटर (गणेश पहिलो)",
+    "cat": "4. Himal, Peaks & Passes"
+  },
+  {
+    "q": "अमा दब्लम हिमालको उचाइ करिब कति हो?",
+    "a": "करिब ६,८१२ मिटर",
+    "cat": "4. Himal, Peaks & Passes"
+  },
+  {
+    "q": "What do the Gokyo Lakes belong to?",
+    "a": "Sagarmatha National Park (Ramsar site)",
+    "cat": "4. Himal, Peaks & Passes"
+  },
+  {
+    "q": "गोसाइँकुण्ड हिमाली क्षेत्र कुन राष्ट्रिय निकुञ्जभित्र पर्छ?",
+    "a": "लाङटाङ राष्ट्रिय निकुञ्ज",
+    "cat": "4. Himal, Peaks & Passes"
+  },
+  {
+    "q": "नेपाल पर्वतारोहण संघको स्थापना कहिले भएको थियो?",
+    "a": "सन् १९७३ (२०३० सालतिर)",
+    "cat": "4. Himal, Peaks & Passes"
+  },
+  {
+    "q": "पुन हिलको उचाइ करिब कति छ?",
+    "a": "करिब ३,२१० मिटर",
+    "cat": "4. Himal, Peaks & Passes"
+  },
+  {
+    "q": "कञ्चनजङ्घा शब्दको अर्थ के हो?",
+    "a": "'हिउँका पाँच भण्डार (खजाना)' भन्ने अर्थ लगाइन्छ",
+    "cat": "4. Himal, Peaks & Passes"
+  },
+  {
+    "q": "सगरमाथा आरोहण पहिलोपटक कुन वर्ष खुला गरियो (नेपालतर्फबाट)?",
+    "a": "सन् १९५०को दशकमा (पहिलो सफल आरोहण १९५३)",
+    "cat": "4. Himal, Peaks & Passes"
+  },
+  {
+    "q": "Which is the highest mountain in Nepal's Annapurna Himal?",
+    "a": "अन्नपूर्ण पहिलो (८,०९१ मिटर)",
+    "cat": "4. Himal, Peaks & Passes"
+  },
+  {
+    "q": "Which two 8,000 m peaks flank the Kali Gandaki gorge?",
+    "a": "Dhaulagiri I and Annapurna I",
+    "cat": "4. Himal, Peaks & Passes"
+  },
+  {
+    "q": "अन्नपूर्ण दोस्रोको उचाइ करिब कति हो?",
+    "a": "करिब ७,९३७ मिटर",
+    "cat": "4. Himal, Peaks & Passes"
+  },
+  {
+    "q": "सुदूरपश्चिमका ७,००० मिटरभन्दा अग्ला दुई हिमाल कुन हुन्?",
+    "a": "आपी हिमाल (७,१३२ मिटर) र साइपाल (७,०३१ मिटर)",
+    "cat": "4. Himal, Peaks & Passes"
+  },
+  {
+    "q": "What is the South Col on Everest?",
+    "a": "A high saddle between Everest and Lhotse at about 7,906 m, used for the final push on the southern route",
+    "cat": "4. Himal, Peaks & Passes"
+  },
+  {
+    "q": "एभरेस्ट नाम कसको नामबाट राखिएको हो?",
+    "a": "सर जर्ज एभरेस्ट (ब्रिटिश सर्भेयर जनरल)",
+    "cat": "4. Himal, Peaks & Passes"
+  },
+  {
+    "q": "माछापुच्छ्रेको आरोहण किन निषेध छ?",
+    "a": "धार्मिक आस्था र सरकारी प्रतिबन्धका कारण (पवित्र मानिन्छ)",
+    "cat": "4. Himal, Peaks & Passes"
+  },
+  {
+    "q": "विश्वको सातौँ अग्लो हिमाल कुन हो?",
+    "a": "धौलागिरी पहिलो (८,१६७ मिटर)",
+    "cat": "4. Himal, Peaks & Passes"
+  },
+  {
+    "q": "महालङ्गुर हिमालमा कुन-कुन आठहजारी शिखर पर्छन्?",
+    "a": "सगरमाथा, ल्होत्से, मकालु र चो ओयु",
+    "cat": "4. Himal, Peaks & Passes"
+  },
+  {
+    "q": "List Nepal's eight 8,000 m peaks in order of height.",
+    "a": "Everest (8,848.86 m), Kangchenjunga (8,586), Lhotse (8,516), Makalu (8,485), Cho Oyu (8,188), Dhaulagiri I (8,167), Manaslu (8,163), Annapurna I (8,091)",
+    "cat": "4. Himal, Peaks & Passes"
+  },
+  {
+    "q": "What is the Khumbu Icefall?",
+    "a": "A dangerous, crevasse-filled section of the Khumbu Glacier on the Everest climbing route",
+    "cat": "4. Himal, Peaks & Passes"
+  },
+  {
+    "q": "कञ्चनजङ्घा आधार शिविर ट्रेक कुन जिल्लाबाट सुरु हुन्छ?",
+    "a": "ताप्लेजुङ",
+    "cat": "4. Himal, Peaks & Passes"
+  },
+  {
+    "q": "अरुण नदी कुन जिल्लाबाट बग्छ?",
+    "a": "संखुवासभा",
+    "cat": "5. Rivers & Water Resources"
+  },
+  {
+    "q": "नेपालमा नदी र खोलाको कुल संख्या करिब कति छ?",
+    "a": "करिब ६,००० भन्दा बढी",
+    "cat": "5. Rivers & Water Resources"
+  },
+  {
+    "q": "नेपालमा सबैभन्दा बढी सिँचाइ सुविधा भएको क्षेत्र कुन हो?",
+    "a": "तराई",
+    "cat": "5. Rivers & Water Resources"
+  },
+  {
+    "q": "काठमाडौँ उपत्यकाको प्रमुख नदी कुन हो?",
+    "a": "बागमती नदी",
+    "cat": "5. Rivers & Water Resources"
+  },
+  {
+    "q": "तामाकोशी नदी कुन क्षेत्रबाट बग्छ?",
+    "a": "रोल्वालिङ क्षेत्र (दोलखा)",
+    "cat": "5. Rivers & Water Resources"
+  },
+  {
+    "q": "कोशी, गण्डकी र कर्णाली अन्ततः कुन नदीमा मिसिन्छन्?",
+    "a": "भारतको गङ्गा नदीमा",
+    "cat": "5. Rivers & Water Resources"
+  },
+  {
+    "q": "Which agreement of 1954 concerned the Koshi barrage?",
+    "a": "Koshi Agreement (1954; revised in 1966)",
+    "cat": "5. Rivers & Water Resources"
+  },
+  {
+    "q": "मर्स्याङ्दी नदी कुन जिल्लाबाट बग्छ?",
+    "a": "मनाङ र लमजुङ",
+    "cat": "5. Rivers & Water Resources"
+  },
+  {
+    "q": "भेरी नदी कुन जिल्लाबाट उत्पत्ति हुन्छ?",
+    "a": "डोल्पा",
+    "cat": "5. Rivers & Water Resources"
+  },
+  {
+    "q": "कुलेखानी जलविद्युत् कुन जिल्लामा पर्छ?",
+    "a": "मकवानपुर",
+    "cat": "5. Rivers & Water Resources"
+  },
+  {
+    "q": "तराईका नदीले वर्षामा किन बाढी ल्याउँछन्?",
+    "a": "पहाडबाट आएको धेरै पानी र गाद समथर भूमिमा फैलिने भएकाले",
+    "cat": "5. Rivers & Water Resources"
+  },
+  {
+    "q": "महाकाली सन्धि कहिले भएको थियो?",
+    "a": "सन् १९९६ (फेब्रुअरी १२)",
+    "cat": "5. Rivers & Water Resources"
+  },
+  {
+    "q": "नेपालको पहिलो भण्डारण (जलाशय) जलविद्युत् आयोजना कुन हो?",
+    "a": "कुलेखानी जलविद्युत् (इन्द्रसरोवर)",
+    "cat": "5. Rivers & Water Resources"
+  },
+  {
+    "q": "नेपालका तीन ठूला नदी प्रणाली कुन हुन्?",
+    "a": "कोशी, गण्डकी (नारायणी) र कर्णाली",
+    "cat": "5. Rivers & Water Resources"
+  },
+  {
+    "q": "सप्तकोशीका सात सहायक नदी कुन-कुन हुन्?",
+    "a": "सुनकोशी, इन्द्रावती, तामाकोशी, लिखु, दूधकोशी, अरुण र तमोर",
+    "cat": "5. Rivers & Water Resources"
+  },
+  {
+    "q": "चिलिमे जलविद्युत् आयोजना कुन जिल्लामा छ?",
+    "a": "रसुवा",
+    "cat": "5. Rivers & Water Resources"
+  },
+  {
+    "q": "पोखराको 'फेवा तालको' पानी कहाँबाट पुग्छ?",
+    "a": "पहाडी खोलाहरू र वर्षात्बाट (फेवाबाट पर्दी खोला निस्कन्छ)",
+    "cat": "5. Rivers & Water Resources"
+  },
+  {
+    "q": "What is Nepal's approximate theoretical hydropower potential?",
+    "a": "About 83,000 MW (about 42,000-43,000 MW economically viable)",
+    "cat": "5. Rivers & Water Resources"
+  },
+  {
+    "q": "नेपाल विद्युत् प्राधिकरणको स्थापना कहिले भयो?",
+    "a": "सन् १९८५ (२०४२ भदौ १)",
+    "cat": "5. Rivers & Water Resources"
+  },
+  {
+    "q": "सिँचाइ भनेको के हो?",
+    "a": "कृषिका लागि कृत्रिम रूपमा बालीमा पानी पुर्‍याउने काम",
+    "cat": "5. Rivers & Water Resources"
+  },
+  {
+    "q": "नेपालभित्र सबैभन्दा लामो नदी कुन हो?",
+    "a": "कर्णाली (नेपालभित्र करिब ५०७ किमी)",
+    "cat": "5. Rivers & Water Resources"
+  },
+  {
+    "q": "What is a river basin (catchment)?",
+    "a": "The entire area drained by a river and its tributaries",
+    "cat": "5. Rivers & Water Resources"
+  },
+  {
+    "q": "गण्डकी नदीलाई अर्को नाम के भनिन्छ?",
+    "a": "सप्तगण्डकी / नारायणी",
+    "cat": "5. Rivers & Water Resources"
+  },
+  {
+    "q": "On which river does Pashupatinath Temple stand?",
+    "a": "Bagmati River",
+    "cat": "5. Rivers & Water Resources"
+  },
+  {
+    "q": "कालीगण्डकी नदी कुन जिल्लाबाट सुरु हुन्छ?",
+    "a": "मुस्ताङ",
+    "cat": "5. Rivers & Water Resources"
+  },
+  {
+    "q": "राप्ती नदी (पश्चिम) कुन जिल्लाहरूमा बग्छ?",
+    "a": "रोल्पा, प्युठान, दाङ र बाँके",
+    "cat": "5. Rivers & Water Resources"
+  },
+  {
+    "q": "मर्स्याङ्दी जलविद्युत् आयोजनाको क्षमता करिब कति हो?",
+    "a": "६९ मेगावाट (लमजुङ)",
+    "cat": "5. Rivers & Water Resources"
+  },
+  {
+    "q": "Where is the Kamala Barrage located?",
+    "a": "Dhanusha/Sindhuli region on the Kamala River (southern Nepal)",
+    "cat": "5. Rivers & Water Resources"
+  },
+  {
+    "q": "कमला नदी कुन-कुन जिल्लाबाट बग्छ?",
+    "a": "Sindhuli and Dhanusha (and Mahottari/Siraha in the Terai)",
+    "cat": "5. Rivers & Water Resources"
+  },
+  {
+    "q": "Which Nepali river enters the Terai at Chisapani?",
+    "a": "Karnali",
+    "cat": "5. Rivers & Water Resources"
+  },
+  {
+    "q": "बागमती नदीको उद्गम स्थल कहाँ हो?",
+    "a": "शिवपुरी (बागद्वार)",
+    "cat": "5. Rivers & Water Resources"
+  },
+  {
+    "q": "खिम्ती जलविद्युत् आयोजना कुन जिल्लामा छ?",
+    "a": "दोलखा",
+    "cat": "5. Rivers & Water Resources"
+  },
+  {
+    "q": "हिउँ र हिमनदी पग्लेर बन्ने नदीको पानीको मात्रा सबैभन्दा बढी कुन समयमा हुन्छ?",
+    "a": "जेठ–भदौ (ग्रीष्म र मनसुनमा)",
+    "cat": "5. Rivers & Water Resources"
+  },
+  {
+    "q": "Which Nepal river is the longest within the country?",
+    "a": "Karnali (about 507 km in Nepal)",
+    "cat": "5. Rivers & Water Resources"
+  },
+  {
+    "q": "मेलम्ची नदी कुन जिल्लाबाट उत्पत्ति हुन्छ?",
+    "a": "सिन्धुपाल्चोक",
+    "cat": "5. Rivers & Water Resources"
+  },
+  {
+    "q": "बबई नदी कुन जिल्लामा बग्छ?",
+    "a": "बर्दिया",
+    "cat": "5. Rivers & Water Resources"
+  },
+  {
+    "q": "कोशी ब्यारेज कहाँ अवस्थित छ?",
+    "a": "सुनसरीको भीमनगर",
+    "cat": "5. Rivers & Water Resources"
+  },
+  {
+    "q": "महाभारत पर्वतबाट उत्पत्ति हुने नेपालका नदीका उदाहरण दिनुहोस्।",
+    "a": "कनकाई, बागमती, कमला, राप्ती, बबई",
+    "cat": "5. Rivers & Water Resources"
+  },
+  {
+    "q": "पञ्चेश्वर बहुउद्देश्यीय आयोजना कुन नदीमा प्रस्तावित छ?",
+    "a": "महाकाली नदी",
+    "cat": "5. Rivers & Water Resources"
+  },
+  {
+    "q": "कर्णालीको चिसापानी कहाँ पर्छ?",
+    "a": "कैलाली (कर्णाली नदी तराई प्रवेश गर्ने ठाउँ)",
+    "cat": "5. Rivers & Water Resources"
+  },
+  {
+    "q": "नेपालका चार प्रमुख हिमाली नदी (वर्षैभर पानी हुने) कुन हुन्?",
+    "a": "कोशी, गण्डकी, कर्णाली र महाकाली",
+    "cat": "5. Rivers & Water Resources"
+  },
+  {
+    "q": "कर्णालीका प्रमुख सहायक नदी कुन-कुन हुन्?",
+    "a": "हुम्ला कर्णाली, मुगु कर्णाली, तिला, भेरी र सेती",
+    "cat": "5. Rivers & Water Resources"
+  },
+  {
+    "q": "गण्डक सम्झौता कहिले भएको थियो?",
+    "a": "सन् १९५९",
+    "cat": "5. Rivers & Water Resources"
+  },
+  {
+    "q": "नेपालका नदीहरू अन्ततः कुन खाडीमा पुग्छन्?",
+    "a": "बंगालको खाडी (गङ्गा–ब्रह्मपुत्र प्रणाली हुँदै)",
+    "cat": "5. Rivers & Water Resources"
+  },
+  {
+    "q": "नेपालका जलस्रोत सम्बन्धी कानुन मध्ये एक कुन हो?",
+    "a": "जलस्रोत ऐन, २०४९",
+    "cat": "5. Rivers & Water Resources"
+  },
+  {
+    "q": "अपर तामाकोशी जलविद्युत् आयोजनाको क्षमता कति हो?",
+    "a": "४५६ मेगावाट (नेपालको सबैभन्दा ठूलो)",
+    "cat": "5. Rivers & Water Resources"
+  },
+  {
+    "q": "सप्तगण्डकीका सात सहायक नदी कुन-कुन हुन्?",
+    "a": "कालीगण्डकी, सेती, मर्स्याङ्दी, मादी, दरौँदी, बूढीगण्डकी र त्रिशूली",
+    "cat": "5. Rivers & Water Resources"
+  },
+  {
+    "q": "सेती नदी (पश्चिमी) कुन क्षेत्रमा पर्छ?",
+    "a": "पहाडी क्षेत्र (डोटी, अछाम) हुँदै कर्णालीमा मिसिन्छ",
+    "cat": "5. Rivers & Water Resources"
+  },
+  {
+    "q": "चमेलिया जलविद्युत् कुन नदीमा छ?",
+    "a": "महाकाली नदीको सहायक चमेलिया खोला (दार्चुला)",
+    "cat": "5. Rivers & Water Resources"
+  },
+  {
+    "q": "भोटेकोशी जलविद्युत् आयोजनाको क्षमता करिब कति हो?",
+    "a": "४५ मेगावाट",
+    "cat": "5. Rivers & Water Resources"
+  },
+  {
+    "q": "काली गण्डकी नदीको उद्गम कहाँ मानिन्छ?",
+    "a": "Near the Nepal–Tibet border in Mustang (Mustang Himalaya)",
+    "cat": "5. Rivers & Water Resources"
+  },
+  {
+    "q": "मेची नदी कुन जिल्लाबाट बग्छ?",
+    "a": "इलाम र झापा (पूर्वी सीमा)",
+    "cat": "5. Rivers & Water Resources"
+  },
+  {
+    "q": "तमोर नदी कुन हिमालबाट उत्पत्ति हुन्छ?",
+    "a": "कञ्चनजङ्घा क्षेत्रबाट",
+    "cat": "5. Rivers & Water Resources"
+  },
+  {
+    "q": "त्रिवेणी (नवलपरासी) कुन नदी सम्बन्धित क्षेत्र हो?",
+    "a": "नारायणी (गण्डकी) नदी",
+    "cat": "5. Rivers & Water Resources"
+  },
+  {
+    "q": "देवघाट कुन नदी मिलेर बन्ने ठाउँ हो?",
+    "a": "कालीगण्डकी र त्रिशूली (नारायणी बन्ने)",
+    "cat": "5. Rivers & Water Resources"
+  },
+  {
+    "q": "मेलम्ची खानेपानी आयोजनाको उद्देश्य के हो?",
+    "a": "मेलम्ची नदीबाट काठमाडौँ उपत्यकामा पिउने पानी ल्याउनु",
+    "cat": "5. Rivers & Water Resources"
+  },
+  {
+    "q": "कोशी नदीलाई अर्को नाम के भनिन्छ?",
+    "a": "सप्तकोशी",
+    "cat": "5. Rivers & Water Resources"
+  },
+  {
+    "q": "कालीगण्डकी ए जलविद्युत् आयोजनाको क्षमता कति हो?",
+    "a": "१४४ मेगावाट",
+    "cat": "5. Rivers & Water Resources"
+  },
+  {
+    "q": "दूधकोशी नदी कुन क्षेत्रबाट उत्पत्ति हुन्छ?",
+    "a": "सगरमाथा (खुम्बु) क्षेत्र",
+    "cat": "5. Rivers & Water Resources"
+  },
+  {
+    "q": "सुनसरी–मोरङ सिँचाइ आयोजना कहाँ छ?",
+    "a": "पूर्वी तराई (सुनसरी र मोरङ)",
+    "cat": "5. Rivers & Water Resources"
+  },
+  {
+    "q": "तिनाउ नदी कुन सहरबाट बग्छ?",
+    "a": "बुटवल",
+    "cat": "5. Rivers & Water Resources"
+  },
+  {
+    "q": "Which river flows through Pokhara in a deep gorge?",
+    "a": "सेती नदी",
+    "cat": "5. Rivers & Water Resources"
+  },
+  {
+    "q": "नेपालको जलविद्युत्को सैद्धान्तिक सम्भाव्यता करिब कति मेगावाट मानिन्छ?",
+    "a": "करिब ८३,००० मेगावाट (आर्थिक रूपमा सम्भाव्य करिब ४२,००० – ४३,०००)",
+    "cat": "5. Rivers & Water Resources"
+  },
+  {
+    "q": "भेरी–बबई डाइभर्सन आयोजनाले के गर्छ?",
+    "a": "भेरी नदीको पानी सुरुङमार्फत बबई नदीमा पुर्‍याएर सिँचाइ र विद्युत् उत्पादन गर्छ",
+    "cat": "5. Rivers & Water Resources"
+  },
+  {
+    "q": "भोटेकोशी नदी कुन देशबाट नेपाल प्रवेश गर्छ?",
+    "a": "चीन (तिब्बत)",
+    "cat": "5. Rivers & Water Resources"
+  },
+  {
+    "q": "Name Nepal's largest hydropower project by capacity.",
+    "a": "अपर तामाकोशी (४५६ मेगावाट)",
+    "cat": "5. Rivers & Water Resources"
+  },
+  {
+    "q": "नेपालका नदीले कुन खाडीमा अन्ततः पानी पुर्‍याउँछन्?",
+    "a": "Bay of Bengal (via the Ganga system)",
+    "cat": "5. Rivers & Water Resources"
+  },
+  {
+    "q": "Which Nepali river is called the Narayani in its lower course?",
+    "a": "Gandaki (Saptagandaki)",
+    "cat": "5. Rivers & Water Resources"
+  },
+  {
+    "q": "नेपालको पहिलो जलविद्युत् आयोजना कुन हो?",
+    "a": "फर्पिङ जलविद्युत् (सन् १९११, ५०० किलोवाट)",
+    "cat": "5. Rivers & Water Resources"
+  },
+  {
+    "q": "Which national park contains Rara Lake?",
+    "a": "Rara National Park",
+    "cat": "6. Lakes, Glaciers & Wetlands"
+  },
+  {
+    "q": "तिलिचो ताल कुन क्षेत्रमा पर्छ?",
+    "a": "मनाङ (अन्नपूर्ण संरक्षण क्षेत्र)",
+    "cat": "6. Lakes, Glaciers & Wetlands"
+  },
+  {
+    "q": "हिमताल (glacial lake) भनेको के हो?",
+    "a": "हिमनदी पग्लेर बनेको वा हिमनदीको अगाडि जम्मा भएको पानीको ताल",
+    "cat": "6. Lakes, Glaciers & Wetlands"
+  },
+  {
+    "q": "What is the Khumbu Glacier known for?",
+    "a": "It lies near Everest Base Camp and is among the highest glaciers in the world",
+    "cat": "6. Lakes, Glaciers & Wetlands"
+  },
+  {
+    "q": "रुपा ताल कुन जिल्लामा पर्छ?",
+    "a": "कास्की",
+    "cat": "6. Lakes, Glaciers & Wetlands"
+  },
+  {
+    "q": "नेपालले सिमसार संरक्षणका लागि कुन अन्तर्राष्ट्रिय महासन्धि अपनाएको छ?",
+    "a": "रामसर महासन्धि (सन् १९७१)",
+    "cat": "6. Lakes, Glaciers & Wetlands"
+  },
+  {
+    "q": "घोडाघोडी तालको महत्त्व के हो?",
+    "a": "सारस र अन्य चराको बासस्थान; रामसर क्षेत्र",
+    "cat": "6. Lakes, Glaciers & Wetlands"
+  },
+  {
+    "q": "गोसाइँकुण्डको उचाइ करिब कति छ?",
+    "a": "करिब ४,३८० मिटर",
+    "cat": "6. Lakes, Glaciers & Wetlands"
+  },
+  {
+    "q": "इम्जा ताल कुन हिमनदीको अगाडि बनेको हो?",
+    "a": "इम्जा हिमनदी (आइल्यान्ड पिक/इम्जे)",
+    "cat": "6. Lakes, Glaciers & Wetlands"
+  },
+  {
+    "q": "बिश हजारी ताल कुन निकुञ्जमा पर्छ?",
+    "a": "चितवन राष्ट्रिय निकुञ्ज (बफर क्षेत्र)",
+    "cat": "6. Lakes, Glaciers & Wetlands"
+  },
+  {
+    "q": "शे–फोक्सुण्डो तालको किनारमा बस्ने गाउँको नाम के हो?",
+    "a": "रिङमो",
+    "cat": "6. Lakes, Glaciers & Wetlands"
+  },
+  {
+    "q": "घोडाघोडी ताल कहाँ छ?",
+    "a": "कैलाली",
+    "cat": "6. Lakes, Glaciers & Wetlands"
+  },
+  {
+    "q": "नेपालको सबैभन्दा लामो हिमनदी कुन हो?",
+    "a": "नगोजुम्पा हिमनदी (गोक्यो क्षेत्र)",
+    "cat": "6. Lakes, Glaciers & Wetlands"
+  },
+  {
+    "q": "जगदीशपुर जलाशयको विशेषता के हो?",
+    "a": "नेपालको सबैभन्दा ठूलो कृत्रिम जलाशय (रामसर क्षेत्र)",
+    "cat": "6. Lakes, Glaciers & Wetlands"
+  },
+  {
+    "q": "पञ्चपोखरी कुन जिल्लामा छ?",
+    "a": "सिन्धुपाल्चोक",
+    "cat": "6. Lakes, Glaciers & Wetlands"
+  },
+  {
+    "q": "Which lake in Kathmandu is believed to be home to a mythical naga (serpent)?",
+    "a": "Taudaha",
+    "cat": "6. Lakes, Glaciers & Wetlands"
+  },
+  {
+    "q": "गोसाइँकुण्ड कुन धर्मका अनुयायीका लागि पवित्र मानिन्छ?",
+    "a": "Hindus and Buddhists (sacred to Shiva)",
+    "cat": "6. Lakes, Glaciers & Wetlands"
+  },
+  {
+    "q": "Which Rolwaling glacial lake is considered high-risk for GLOF?",
+    "a": "Tsho Rolpa",
+    "cat": "6. Lakes, Glaciers & Wetlands"
+  },
+  {
+    "q": "कोशी टप्पु क्षेत्र कुन नदीको बाढी मैदानमा पर्छ?",
+    "a": "सप्तकोशी",
+    "cat": "6. Lakes, Glaciers & Wetlands"
+  },
+  {
+    "q": "फोक्सुण्डो तालको गहिराइ करिब कति छ?",
+    "a": "करिब १४५ मिटर",
+    "cat": "6. Lakes, Glaciers & Wetlands"
+  },
+  {
+    "q": "Which is the deepest lake in Nepal?",
+    "a": "शे–फोक्सुण्डो ताल (डोल्पा)",
+    "cat": "6. Lakes, Glaciers & Wetlands"
+  },
+  {
+    "q": "जगदीशपुर जलाशय कहाँ छ?",
+    "a": "कपिलवस्तु",
+    "cat": "6. Lakes, Glaciers & Wetlands"
+  },
+  {
+    "q": "बेगनास ताल कुन जिल्लामा पर्छ?",
+    "a": "कास्की",
+    "cat": "6. Lakes, Glaciers & Wetlands"
+  },
+  {
+    "q": "नेपालको सबैभन्दा ठूलो ताल कुन हो?",
+    "a": "रारा ताल (मुगु, करिब १०.८ वर्ग किमी)",
+    "cat": "6. Lakes, Glaciers & Wetlands"
+  },
+  {
+    "q": "पोखराका तीन प्रमुख ताल कुन-कुन हुन्?",
+    "a": "फेवा, बेगनास र रुपा",
+    "cat": "6. Lakes, Glaciers & Wetlands"
+  },
+  {
+    "q": "दिपाङ ताल कहाँ छ?",
+    "a": "कास्की (पोखरा नजिक)",
+    "cat": "6. Lakes, Glaciers & Wetlands"
+  },
+  {
+    "q": "सिमसार (wetland) को महत्त्व के हो?",
+    "a": "बाढी नियन्त्रण, पानी सञ्चय र जैविक विविधताको बासस्थान",
+    "cat": "6. Lakes, Glaciers & Wetlands"
+  },
+  {
+    "q": "आईसिमोड (ICIMOD) को मुख्यालय नेपालमा कहाँ छ?",
+    "a": "Khumaltar, Lalitpur",
+    "cat": "6. Lakes, Glaciers & Wetlands"
+  },
+  {
+    "q": "Which Pokhara lake is the second largest after Phewa?",
+    "a": "Begnas Tal",
+    "cat": "6. Lakes, Glaciers & Wetlands"
+  },
+  {
+    "q": "नेपालको सबैभन्दा अग्लो ताल कुन हो?",
+    "a": "तिलिचो ताल (मनाङ, करिब ४,९१९ मिटर)",
+    "cat": "6. Lakes, Glaciers & Wetlands"
+  },
+  {
+    "q": "मैपोखरी कहाँ छ?",
+    "a": "इलाम",
+    "cat": "6. Lakes, Glaciers & Wetlands"
+  },
+  {
+    "q": "नेपालको सबैभन्दा गहिरो ताल कुन हो?",
+    "a": "शे–फोक्सुण्डो ताल (डोल्पा)",
+    "cat": "6. Lakes, Glaciers & Wetlands"
+  },
+  {
+    "q": "गोक्यो तालहरू कुन जिल्लामा पर्छन्?",
+    "a": "सोलुखुम्बु",
+    "cat": "6. Lakes, Glaciers & Wetlands"
+  },
+  {
+    "q": "Name two Ramsar sites of Nepal located in the Terai.",
+    "a": "Koshi Tappu and Ghodaghodi Tal (also Beeshazari, Jagdishpur)",
+    "cat": "6. Lakes, Glaciers & Wetlands"
+  },
+  {
+    "q": "रारा तालको उचाइ करिब कति छ?",
+    "a": "करिब २,९९० मिटर",
+    "cat": "6. Lakes, Glaciers & Wetlands"
+  },
+  {
+    "q": "गोसाइँकुण्ड कुन जिल्लामा पर्छ?",
+    "a": "रसुवा",
+    "cat": "6. Lakes, Glaciers & Wetlands"
+  },
+  {
+    "q": "ताउदह कहाँ अवस्थित छ?",
+    "a": "काठमाडौँ (चोभार नजिक)",
+    "cat": "6. Lakes, Glaciers & Wetlands"
+  },
+  {
+    "q": "हिमनदी पोखरीलाई (moraine dammed lake) के भनिन्छ?",
+    "a": "मोरेन बाँधिएको हिमताल",
+    "cat": "6. Lakes, Glaciers & Wetlands"
+  },
+  {
+    "q": "हिमनदी पछि हट्नुको मुख्य कारण के हो?",
+    "a": "जलवायु परिवर्तन र तापक्रम वृद्धि",
+    "cat": "6. Lakes, Glaciers & Wetlands"
+  },
+  {
+    "q": "Which is the largest lake in Nepal?",
+    "a": "रारा ताल (मुगु)",
+    "cat": "6. Lakes, Glaciers & Wetlands"
+  },
+  {
+    "q": "इम्जा ताल किन चर्चामा रहन्छ?",
+    "a": "सोलुखुम्बुको यो ठूलो हिमताल बढ्दै गएकाले हिमताल विस्फोट बाढी (GLOF) को जोखिम छ",
+    "cat": "6. Lakes, Glaciers & Wetlands"
+  },
+  {
+    "q": "गोक्यो तालहरूको समूहमा कतिवटा मुख्य ताल मानिन्छन्?",
+    "a": "करिब ६ वटा (गोक्यो ताल)",
+    "cat": "6. Lakes, Glaciers & Wetlands"
+  },
+  {
+    "q": "कोशी टप्पु वन्यजन्तु आरक्ष केका लागि प्रसिद्ध छ?",
+    "a": "जंगली अर्ना (वन्य भैंसी) को एक मात्र बासस्थान; रामसर क्षेत्र",
+    "cat": "6. Lakes, Glaciers & Wetlands"
+  },
+  {
+    "q": "हिमताल विस्फोटको जोखिम कम गर्न के गर्न सकिन्छ?",
+    "a": "तालको पानी निकाल्ने सुरुङ/नहर बनाउने र पूर्व सूचना प्रणाली राख्ने",
+    "cat": "6. Lakes, Glaciers & Wetlands"
+  },
+  {
+    "q": "What is a glacial lake outburst flood (GLOF)?",
+    "a": "A sudden flood when a glacial lake's natural dam (moraine or ice) bursts",
+    "cat": "6. Lakes, Glaciers & Wetlands"
+  },
+  {
+    "q": "आईसिमोडले के अध्ययन गर्छ?",
+    "a": "हिन्दुकुश हिमालय क्षेत्रको पर्यावरण, हिमनदी र जलवायु",
+    "cat": "6. Lakes, Glaciers & Wetlands"
+  },
+  {
+    "q": "नेपालको कुन ताल 'तालहरूकी रानी' भनिन्छ?",
+    "a": "Rara Lake",
+    "cat": "6. Lakes, Glaciers & Wetlands"
+  },
+  {
+    "q": "बिश हजारी ताल कहाँ छ?",
+    "a": "चितवन (राप्ती नदी नजिकको सिमसार)",
+    "cat": "6. Lakes, Glaciers & Wetlands"
+  },
+  {
+    "q": "फोक्सुण्डो झरना नेपालको कतिऔँ अग्लो मानिन्छ?",
+    "a": "नेपालकै सबैभन्दा अग्लो झरना (करिब १६७ मिटर)",
+    "cat": "6. Lakes, Glaciers & Wetlands"
+  },
+  {
+    "q": "गोसाइँकुण्ड कुन धार्मिक पर्वसँग जोडिन्छ?",
+    "a": "जनै पूर्णिमा/गङ्गा दशहरा (मेला)",
+    "cat": "6. Lakes, Glaciers & Wetlands"
+  },
+  {
+    "q": "पोखराको हावापानी कस्तो हुन्छ?",
+    "a": "Humid subtropical, with very heavy monsoon rainfall",
+    "cat": "7. Climate, Seasons & Monsoon"
+  },
+  {
+    "q": "समशीतोष्ण (temperate) हावापानी कति उचाइमा हुन्छ?",
+    "a": "करिब २,४०० देखि ३,६०० मिटर",
+    "cat": "7. Climate, Seasons & Monsoon"
+  },
+  {
+    "q": "मौसम विज्ञानअनुसार नेपालमा कति मौसम मानिन्छन्?",
+    "a": "चार: जाडो (डिसेम्बर–फेब्रुअरी), मनसुनपूर्व (मार्च–मे), मनसुन (जुन–सेप्टेम्बर), मनसुनपछि (अक्टोबर–नोभेम्बर)",
+    "cat": "7. Climate, Seasons & Monsoon"
+  },
+  {
+    "q": "नेपालमा गर्मी लहर कहाँ बढी हुन्छ?",
+    "a": "तराई (वैशाख–जेठ)",
+    "cat": "7. Climate, Seasons & Monsoon"
+  },
+  {
+    "q": "अल्पाइन हावापानी कति उचाइमा हुन्छ?",
+    "a": "करिब ४,४०० देखि ५,००० मिटर",
+    "cat": "7. Climate, Seasons & Monsoon"
+  },
+  {
+    "q": "तराईको हावापानी कस्तो हुन्छ?",
+    "a": "उष्ण र आर्द्र उपोष्ण (गर्मीमा धेरै तातो, जाडोमा कुहिरो)",
+    "cat": "7. Climate, Seasons & Monsoon"
+  },
+  {
+    "q": "हावापानी परिवर्तनले नेपालको कृषिमा के असर पर्छ?",
+    "a": "वर्षाको समय बदलिने, खडेरी/बाढी बढ्ने र बालीको उत्पादकत्व घट्ने",
+    "cat": "7. Climate, Seasons & Monsoon"
+  },
+  {
+    "q": "Which wind brings rain to Nepal in summer?",
+    "a": "South-west (Bay of Bengal branch) monsoon",
+    "cat": "7. Climate, Seasons & Monsoon"
+  },
+  {
+    "q": "खडेरी भनेको के हो?",
+    "a": "लामो समयसम्म सामान्यभन्दा कम वर्षा हुँदा हुने पानीको अभाव",
+    "cat": "7. Climate, Seasons & Monsoon"
+  },
+  {
+    "q": "पोखरामा किन अन्य ठाउँभन्दा धेरै वर्षा हुन्छ?",
+    "a": "दक्षिणबाट आउने आर्द्र हावा अन्नपूर्ण हिमाली पर्खालमा ठोक्किएर पहाडी (ओरोग्राफिक) वर्षा गराउँछ",
+    "cat": "7. Climate, Seasons & Monsoon"
+  },
+  {
+    "q": "चट्याङ भनेको के हो?",
+    "a": "बादलबाट पृथ्वीतर्फ वा बादलबादलबीच हुने विद्युतीय निस्सरण",
+    "cat": "7. Climate, Seasons & Monsoon"
+  },
+  {
+    "q": "Name Nepal's six traditional seasons.",
+    "a": "Basanta (spring), Grishma (summer), Barsha (monsoon), Sharad (autumn), Hemanta (late autumn) and Shishir (winter)",
+    "cat": "7. Climate, Seasons & Monsoon"
+  },
+  {
+    "q": "उपोष्ण (sub-tropical) हावापानी कति उचाइमा हुन्छ?",
+    "a": "करिब १,२०० देखि २,४०० मिटर",
+    "cat": "7. Climate, Seasons & Monsoon"
+  },
+  {
+    "q": "नेपालमा मनसुन औसतमा कहिले भित्रिन्छ?",
+    "a": "जुनको दोस्रो हप्ता (करिब १३ जुन)",
+    "cat": "7. Climate, Seasons & Monsoon"
+  },
+  {
+    "q": "हिमपात हुने नेपालको भाग कुन हो?",
+    "a": "करिब ३,००० मिटरभन्दा माथिको हिमाली र उच्च पहाडी क्षेत्र (काठमाडौँमा दुर्लभ)",
+    "cat": "7. Climate, Seasons & Monsoon"
+  },
+  {
+    "q": "What is a western disturbance?",
+    "a": "A low-pressure system from the Mediterranean that brings winter rain and snow to north-west South Asia",
+    "cat": "7. Climate, Seasons & Monsoon"
+  },
+  {
+    "q": "नेपालमा सबैभन्दा कम वर्षा हुने महिना कुन हो?",
+    "a": "मंसिर (नोभेम्बर–डिसेम्बर)",
+    "cat": "7. Climate, Seasons & Monsoon"
+  },
+  {
+    "q": "उचाइअनुसार नेपालमा प्रमुख कति हावापानी क्षेत्र मानिन्छन्?",
+    "a": "छ: उष्ण, उपोष्ण, समशीतोष्ण, उपअल्पाइन, अल्पाइन र हिमाली (निभल)",
+    "cat": "7. Climate, Seasons & Monsoon"
+  },
+  {
+    "q": "नेपालमा परम्परागत रूपमा कतिवटा ऋतु मानिन्छन्?",
+    "a": "छ वटा",
+    "cat": "7. Climate, Seasons & Monsoon"
+  },
+  {
+    "q": "नेपालको वार्षिक वर्षाको करिब कति भाग मनसुनमा पर्छ?",
+    "a": "करिब ८०%",
+    "cat": "7. Climate, Seasons & Monsoon"
+  },
+  {
+    "q": "नेपालमा जाडो याममा तराईमा के बढी देखिन्छ?",
+    "a": "Dense fog and cold waves",
+    "cat": "7. Climate, Seasons & Monsoon"
+  },
+  {
+    "q": "नेपालमा मनसुन कहाँबाट प्रवेश गर्छ?",
+    "a": "पूर्वी नेपालबाट (बंगालको खाडीको शाखा)",
+    "cat": "7. Climate, Seasons & Monsoon"
+  },
+  {
+    "q": "By roughly how much does temperature fall with every 1,000 m rise in the Himalayan region?",
+    "a": "About 6.5 degrees C",
+    "cat": "7. Climate, Seasons & Monsoon"
+  },
+  {
+    "q": "पूर्वी नेपालमा पश्चिमी नेपालभन्दा वर्षा किन बढी हुन्छ?",
+    "a": "मनसुन पूर्वबाट भित्रिन्छ र पश्चिम जाँदै क्रमशः कमजोर हुन्छ",
+    "cat": "7. Climate, Seasons & Monsoon"
+  },
+  {
+    "q": "वायुको चाप मापन गर्ने यन्त्र के हो?",
+    "a": "वायुदाबमापक (ब्यारोमिटर)",
+    "cat": "7. Climate, Seasons & Monsoon"
+  },
+  {
+    "q": "मनसुन आउनुअघि नेपालमा बढी पर्ने हावा-असिनालाई के भनिन्छ?",
+    "a": "मनसुनपूर्व आँधीहुरी/असिना",
+    "cat": "7. Climate, Seasons & Monsoon"
+  },
+  {
+    "q": "सापेक्ष आर्द्रता मापन गर्ने यन्त्र के हो?",
+    "a": "हाइग्रोमिटर",
+    "cat": "7. Climate, Seasons & Monsoon"
+  },
+  {
+    "q": "मनसुनपूर्वी कुन महिनामा बढी असिना पर्छ?",
+    "a": "चैत–वैशाख",
+    "cat": "7. Climate, Seasons & Monsoon"
+  },
+  {
+    "q": "नेपालको मौसम सम्बन्धी सरकारी निकाय कुन हो?",
+    "a": "जल तथा मौसम विज्ञान विभाग",
+    "cat": "7. Climate, Seasons & Monsoon"
+  },
+  {
+    "q": "हिउँदमा पश्चिम नेपालमा वर्षा गराउने मौसमी प्रणाली कुन हो?",
+    "a": "पश्चिमी विक्षोभ",
+    "cat": "7. Climate, Seasons & Monsoon"
+  },
+  {
+    "q": "मनसुनपूर्व मार्च–मेमा नेपालमा के बढी हुन्छ?",
+    "a": "Thunderstorms, hailstorms and gusty winds",
+    "cat": "7. Climate, Seasons & Monsoon"
+  },
+  {
+    "q": "निभल (हिमाली) क्षेत्र कति उचाइभन्दा माथि हुन्छ?",
+    "a": "करिब ५,००० मिटरभन्दा माथि",
+    "cat": "7. Climate, Seasons & Monsoon"
+  },
+  {
+    "q": "तापक्रम मापन गर्ने उपकरण के हो?",
+    "a": "तापमापक (थर्मोमिटर)",
+    "cat": "7. Climate, Seasons & Monsoon"
+  },
+  {
+    "q": "तराईमा कुहिरो र शीतलहर कहिले बढी हुन्छ?",
+    "a": "पुस–माघ (डिसेम्बर–जनवरी)",
+    "cat": "7. Climate, Seasons & Monsoon"
+  },
+  {
+    "q": "उपअल्पाइन हावापानी कति उचाइमा हुन्छ?",
+    "a": "करिब ३,६०० देखि ४,४०० मिटर",
+    "cat": "7. Climate, Seasons & Monsoon"
+  },
+  {
+    "q": "नेपालमा जलवायु परिवर्तनबाट सबैभन्दा बढी प्रभावित क्षेत्र कुन मानिन्छ?",
+    "a": "हिमाली क्षेत्र (हिमनदी पग्लिने) र पहाड–तराईमा बाढी/पहिरो",
+    "cat": "7. Climate, Seasons & Monsoon"
+  },
+  {
+    "q": "नेपालमा सबैभन्दा बढी वर्षा हुने महिना कुन हो?",
+    "a": "असार–साउन (जुलाई–अगस्ट)",
+    "cat": "7. Climate, Seasons & Monsoon"
+  },
+  {
+    "q": "Why does Mustang receive very little rain?",
+    "a": "It lies in the rain shadow north of the Annapurna-Dhaulagiri Himalaya",
+    "cat": "7. Climate, Seasons & Monsoon"
+  },
+  {
+    "q": "नेपालमा सबैभन्दा बढी वर्षा हुने ठाउँ कुन हो?",
+    "a": "लुम्ले (कास्की), करिब ५,००० मि.मि. भन्दा बढी",
+    "cat": "7. Climate, Seasons & Monsoon"
+  },
+  {
+    "q": "नेपालका छ ऋतु क्रमशः लेख्नुहोस्।",
+    "a": "वसन्त, ग्रीष्म, वर्षा, शरद, हेमन्त र शिशिर",
+    "cat": "7. Climate, Seasons & Monsoon"
+  },
+  {
+    "q": "नेपालको कुन भाग सबैभन्दा बढी तातो हुन्छ?",
+    "a": "तराई (विशेषगरी पश्चिम तराई)",
+    "cat": "7. Climate, Seasons & Monsoon"
+  },
+  {
+    "q": "हिमाली क्षेत्रमा हिउँ पग्लेर आउने बाढीलाई के भनिन्छ?",
+    "a": "हिमनदीजन्य बाढी (हिउँ पग्लिएर आएको बाढी)",
+    "cat": "7. Climate, Seasons & Monsoon"
+  },
+  {
+    "q": "नेपालको औसत वार्षिक वर्षा करिब कति हो?",
+    "a": "करिब १,५०० – १,६५० मि.मि.",
+    "cat": "7. Climate, Seasons & Monsoon"
+  },
+  {
+    "q": "वृष्टिछायाँ भनेको के हो?",
+    "a": "पर्वतको हावा विपरीत (लिवार्ड) तर्फ पर्ने कम वर्षा हुने क्षेत्र",
+    "cat": "7. Climate, Seasons & Monsoon"
+  },
+  {
+    "q": "हिमाली क्षेत्रको हावापानी कस्तो हुन्छ?",
+    "a": "चिसो, सुख्खा र हिउँ पर्ने (अल्पाइन/निभल)",
+    "cat": "7. Climate, Seasons & Monsoon"
+  },
+  {
+    "q": "शीतलहर के हो?",
+    "a": "तापक्रम एकाएक निकै घटेर लामो समय चिसो रहने अवस्था",
+    "cat": "7. Climate, Seasons & Monsoon"
+  },
+  {
+    "q": "नेपालमा मनसुन सामान्यतया कहिले फर्कन्छ?",
+    "a": "सेप्टेम्बरको अन्त्यतिर",
+    "cat": "7. Climate, Seasons & Monsoon"
+  },
+  {
+    "q": "वर्षा मापन गर्ने उपकरण के हो?",
+    "a": "वर्षामापक (रेनगेज)",
+    "cat": "7. Climate, Seasons & Monsoon"
+  },
+  {
+    "q": "नेपालमा जाडो सबैभन्दा बढी कुन महिनामा हुन्छ?",
+    "a": "पुस–माघ (डिसेम्बर–जनवरी)",
+    "cat": "7. Climate, Seasons & Monsoon"
+  },
+  {
+    "q": "हावापानी र मौसमबीच के फरक हुन्छ?",
+    "a": "मौसम अल्पकालीन वायुमण्डलीय अवस्था हो; हावापानी लामो समयको औसत अवस्था हो",
+    "cat": "7. Climate, Seasons & Monsoon"
+  },
+  {
+    "q": "उष्ण (tropical) हावापानी नेपालमा कति उचाइसम्म हुन्छ?",
+    "a": "करिब १,२०० मिटरसम्म",
+    "cat": "7. Climate, Seasons & Monsoon"
+  },
+  {
+    "q": "What is the climate of the Kathmandu Valley best described as?",
+    "a": "Warm temperate (subtropical highland) with a dry winter and wet summer",
+    "cat": "7. Climate, Seasons & Monsoon"
+  },
+  {
+    "q": "What is the Köppen climate type of Nepal's high Himalaya?",
+    "a": "ध्रुवीय/हिमाली (टुन्ड्रा र बरफ) हावापानी",
+    "cat": "7. Climate, Seasons & Monsoon"
+  },
+  {
+    "q": "नेपालमा सबैभन्दा कम वर्षा हुने क्षेत्र कुन हो?",
+    "a": "मुस्ताङ (वृष्टिछायाँ क्षेत्र); मनाङ र डोल्पाको उत्तरी भाग पनि",
+    "cat": "7. Climate, Seasons & Monsoon"
+  },
+  {
+    "q": "तराईमा सबैभन्दा बढी गर्मी हुने महिना कुन हो?",
+    "a": "वैशाख–जेठ (अप्रिल–जुन)",
+    "cat": "7. Climate, Seasons & Monsoon"
+  },
+  {
+    "q": "नेपालमा चट्याङको जोखिम बढी हुने समय कुन हो?",
+    "a": "मनसुनपूर्व र मनसुन (चैत–भदौ)",
+    "cat": "7. Climate, Seasons & Monsoon"
+  },
+  {
+    "q": "हिमालको वृष्टिछायाँ क्षेत्रमा कुन प्रकारको कृषि सम्भव हुन्छ?",
+    "a": "Dryland farming, irrigated barley, potato and apples (e.g. Mustang)",
+    "cat": "7. Climate, Seasons & Monsoon"
+  },
+  {
+    "q": "Which phenomenon often weakens the South Asian monsoon?",
+    "a": "El Nino",
+    "cat": "7. Climate, Seasons & Monsoon"
+  },
+  {
+    "q": "समुदायमा आधारित वन व्यवस्थापन प्रणालीलाई के भनिन्छ?",
+    "a": "सामुदायिक वन",
+    "cat": "8. Vegetation, Wildlife & Protected Areas"
+  },
+  {
+    "q": "समुदायिक वनको पहिलो व्यवस्था नेपालमा कुन समयमा सुरु भयो?",
+    "a": "२०३० सालको दशक (पञ्चायत वन अवधारणा)",
+    "cat": "8. Vegetation, Wildlife & Protected Areas"
+  },
+  {
+    "q": "What does CITES regulate?",
+    "a": "International trade in endangered wild animals and plants",
+    "cat": "8. Vegetation, Wildlife & Protected Areas"
+  },
+  {
+    "q": "Which Nepali national park is the oldest?",
+    "a": "चितवन राष्ट्रिय निकुञ्ज",
+    "cat": "8. Vegetation, Wildlife & Protected Areas"
+  },
+  {
+    "q": "नाउर (blue sheep) कहाँ पाइन्छ?",
+    "a": "हिमाली क्षेत्र (जस्तै डोल्पा, मनाङ, मुस्ताङ)",
+    "cat": "8. Vegetation, Wildlife & Protected Areas"
+  },
+  {
+    "q": "जैविक विविधता भनेको के हो?",
+    "a": "कुनै क्षेत्रमा पाइने जीवजन्तु, वनस्पति र पारिस्थितिक प्रणालीको विविधता",
+    "cat": "8. Vegetation, Wildlife & Protected Areas"
+  },
+  {
+    "q": "नेपालमा कतिवटा राष्ट्रिय निकुञ्ज छन्?",
+    "a": "१२ वटा",
+    "cat": "8. Vegetation, Wildlife & Protected Areas"
+  },
+  {
+    "q": "मकालु–बरुण राष्ट्रिय निकुञ्ज कहाँ पर्छ?",
+    "a": "सोलुखुम्बु र संखुवासभा",
+    "cat": "8. Vegetation, Wildlife & Protected Areas"
+  },
+  {
+    "q": "पर्सा र शुक्लाफाँटा आरक्षलाई राष्ट्रिय निकुञ्ज कहिले बनाइयो?",
+    "a": "सन् २०१७ मा",
+    "cat": "8. Vegetation, Wildlife & Protected Areas"
+  },
+  {
+    "q": "रातो पाण्डा नेपालको कुन क्षेत्रमा पाइन्छ?",
+    "a": "इलाम, ताप्लेजुङ आदि पूर्वी उच्च पहाडी क्षेत्र",
+    "cat": "8. Vegetation, Wildlife & Protected Areas"
+  },
+  {
+    "q": "विश्व सम्पदा सूचीमा परेका नेपालका दुई प्राकृतिक सम्पदा कुन हुन्?",
+    "a": "सगरमाथा राष्ट्रिय निकुञ्ज (१९७९) र चितवन राष्ट्रिय निकुञ्ज (१९८४)",
+    "cat": "8. Vegetation, Wildlife & Protected Areas"
+  },
+  {
+    "q": "सबैभन्दा ठूलो राष्ट्रिय निकुञ्ज कुन हो?",
+    "a": "शे–फोक्सुण्डो राष्ट्रिय निकुञ्ज (करिब ३,५५५ वर्ग किमी)",
+    "cat": "8. Vegetation, Wildlife & Protected Areas"
+  },
+  {
+    "q": "नेपालमा चराको प्रजाति करिब कति पाइन्छ?",
+    "a": "८८० भन्दा बढी",
+    "cat": "8. Vegetation, Wildlife & Protected Areas"
+  },
+  {
+    "q": "लालीगुराँस प्रायः कति उचाइमा पाइन्छ?",
+    "a": "करिब २,००० देखि ३,५०० मिटर",
+    "cat": "8. Vegetation, Wildlife & Protected Areas"
+  },
+  {
+    "q": "हिमाली क्षेत्रमा कस्तूरी मृगको शिकार किन हुन्छ?",
+    "a": "कस्तूरीका लागि (मूल्यवान पदार्थ)",
+    "cat": "8. Vegetation, Wildlife & Protected Areas"
+  },
+  {
+    "q": "नेपालको राष्ट्रिय फूल कुन हो?",
+    "a": "लालीगुराँस",
+    "cat": "8. Vegetation, Wildlife & Protected Areas"
+  },
+  {
+    "q": "नेपालको पहिलो राष्ट्रिय निकुञ्ज कुन हो?",
+    "a": "चितवन राष्ट्रिय निकुञ्ज (सन् १९७३)",
+    "cat": "8. Vegetation, Wildlife & Protected Areas"
+  },
+  {
+    "q": "नेपालको राष्ट्रिय रङ कुन हो?",
+    "a": "सिन्दुरे रातो",
+    "cat": "8. Vegetation, Wildlife & Protected Areas"
+  },
+  {
+    "q": "राष्ट्रिय प्रकृति संरक्षण कोष (NTNC) को पूर्व नाम के थियो?",
+    "a": "राजा महेन्द्र प्रकृति संरक्षण कोष (KMTNC)",
+    "cat": "8. Vegetation, Wildlife & Protected Areas"
+  },
+  {
+    "q": "अन्नपूर्ण संरक्षण क्षेत्र परियोजना कुन संस्थाले सञ्चालन गर्छ?",
+    "a": "National Trust for Nature Conservation (NTNC)",
+    "cat": "8. Vegetation, Wildlife & Protected Areas"
+  },
+  {
+    "q": "नेपालको वन क्षेत्र कुल भूभागको करिब कति प्रतिशत छ?",
+    "a": "करिब ४५%",
+    "cat": "8. Vegetation, Wildlife & Protected Areas"
+  },
+  {
+    "q": "नेपालका वन्यजन्तु आरक्ष र शिकार आरक्ष कति र कुन-कुन हुन्?",
+    "a": "वन्यजन्तु आरक्ष १ (कोशी टप्पु) र शिकार आरक्ष १ (ढोरपाटन)",
+    "cat": "8. Vegetation, Wildlife & Protected Areas"
+  },
+  {
+    "q": "खप्तड राष्ट्रिय निकुञ्ज कहाँ छ?",
+    "a": "सुदूरपश्चिम (बाजुरा, बझाङ, अछाम र डोटी)",
+    "cat": "8. Vegetation, Wildlife & Protected Areas"
+  },
+  {
+    "q": "नेपालको राष्ट्रिय पशु कुन हो?",
+    "a": "गाई",
+    "cat": "8. Vegetation, Wildlife & Protected Areas"
+  },
+  {
+    "q": "छ वटा संरक्षण क्षेत्र कुन-कुन हुन्?",
+    "a": "अन्नपूर्ण, कञ्चनजङ्घा, मनास्लु, गौरीशङ्कर, आपी नाम्पा र कृष्णसार",
+    "cat": "8. Vegetation, Wildlife & Protected Areas"
+  },
+  {
+    "q": "What is yak (chauri) used for in the Himalayan region?",
+    "a": "Transport, milk, wool and meat; chauri is a yak-cow hybrid",
+    "cat": "8. Vegetation, Wildlife & Protected Areas"
+  },
+  {
+    "q": "नेपालको सबैभन्दा उचाइमा रहेको राष्ट्रिय निकुञ्ज कुन हो?",
+    "a": "Sagarmatha National Park",
+    "cat": "8. Vegetation, Wildlife & Protected Areas"
+  },
+  {
+    "q": "बाँके राष्ट्रिय निकुञ्ज कुन वर्ष स्थापना भयो?",
+    "a": "सन् २०१० (२०६७ साल)",
+    "cat": "8. Vegetation, Wildlife & Protected Areas"
+  },
+  {
+    "q": "तराईको सखुवा वनमा पाइने एक प्रमुख रूख कुन हो?",
+    "a": "Sal (Shorea robusta)",
+    "cat": "8. Vegetation, Wildlife & Protected Areas"
+  },
+  {
+    "q": "चितवन राष्ट्रिय निकुञ्जको सौराहा कुन जिल्लामा पर्छ?",
+    "a": "चितवन",
+    "cat": "8. Vegetation, Wildlife & Protected Areas"
+  },
+  {
+    "q": "हिमाली ताहर (Himalayan tahr) कस्तो जनावर हो?",
+    "a": "हिमाली क्षेत्रमा पाइने जंगली बाख्रा जस्तो जनावर",
+    "cat": "8. Vegetation, Wildlife & Protected Areas"
+  },
+  {
+    "q": "Which reserve protects the last wild water buffalo (arna) in Nepal?",
+    "a": "Koshi Tappu Wildlife Reserve",
+    "cat": "8. Vegetation, Wildlife & Protected Areas"
+  },
+  {
+    "q": "शुक्लाफाँटा राष्ट्रिय निकुञ्ज कुन जिल्लामा पर्छ?",
+    "a": "कञ्चनपुर",
+    "cat": "8. Vegetation, Wildlife & Protected Areas"
+  },
+  {
+    "q": "सन् २०२२ को गणनाअनुसार नेपालमा बाघको सङ्ख्या करिब कति थियो?",
+    "a": "करिब ३५५",
+    "cat": "8. Vegetation, Wildlife & Protected Areas"
+  },
+  {
+    "q": "हिउँ चितुवा नेपालको कुन क्षेत्रमा पाइन्छ?",
+    "a": "हिमाली क्षेत्र (जस्तै मुस्ताङ, मनाङ, डोल्पा)",
+    "cat": "8. Vegetation, Wildlife & Protected Areas"
+  },
+  {
+    "q": "घडियाल र मगर गोही कुन नदीमा पाइन्छन्?",
+    "a": "नारायणी, कर्णाली र बबई",
+    "cat": "8. Vegetation, Wildlife & Protected Areas"
+  },
+  {
+    "q": "फर (गोब्रे सल्ला) र स्प्रुसजस्ता वन कुन हावापानीमा पाइन्छन्?",
+    "a": "उपअल्पाइन र समशीतोष्ण चिसो क्षेत्र",
+    "cat": "8. Vegetation, Wildlife & Protected Areas"
+  },
+  {
+    "q": "नेपालमा कतिवटा संरक्षण क्षेत्र छन्?",
+    "a": "६ वटा",
+    "cat": "8. Vegetation, Wildlife & Protected Areas"
+  },
+  {
+    "q": "नेपालको राष्ट्रिय चरा कुन हो?",
+    "a": "डाँफे (हिमालयन मोनाल)",
+    "cat": "8. Vegetation, Wildlife & Protected Areas"
+  },
+  {
+    "q": "हिमाली क्षेत्रको पहिलो राष्ट्रिय निकुञ्ज कुन हो?",
+    "a": "लाङटाङ राष्ट्रिय निकुञ्ज (सन् १९७६)",
+    "cat": "8. Vegetation, Wildlife & Protected Areas"
+  },
+  {
+    "q": "एकसिङ्गे गैँडा मुख्य रूपमा कुन निकुञ्जमा पाइन्छ?",
+    "a": "चितवन राष्ट्रिय निकुञ्ज (बर्दिया र शुक्लाफाँटामा पनि)",
+    "cat": "8. Vegetation, Wildlife & Protected Areas"
+  },
+  {
+    "q": "शाही बंगाल बाघका लागि प्रसिद्ध निकुञ्ज कुन हो?",
+    "a": "बर्दिया राष्ट्रिय निकुञ्ज",
+    "cat": "8. Vegetation, Wildlife & Protected Areas"
+  },
+  {
+    "q": "बारहसिङ्गाका लागि प्रसिद्ध निकुञ्ज कुन हो?",
+    "a": "शुक्लाफाँटा राष्ट्रिय निकुञ्ज",
+    "cat": "8. Vegetation, Wildlife & Protected Areas"
+  },
+  {
+    "q": "गैँडा संरक्षणको कार्यमा नेपालले कुन सफलता पायो?",
+    "a": "शून्य शिकारी (पोचिङ) वर्षहरू र सङ्ख्या बढ्नु",
+    "cat": "8. Vegetation, Wildlife & Protected Areas"
+  },
+  {
+    "q": "उच्च हिमाली क्षेत्रमा रूख हुन नसक्ने सीमालाई के भनिन्छ?",
+    "a": "रूखरेखा (Treeline), करिब ४,००० – ४,५०० मिटर",
+    "cat": "8. Vegetation, Wildlife & Protected Areas"
+  },
+  {
+    "q": "मध्यपहाडमा पाइने 'उत्तिस' रूख कस्तो हुन्छ?",
+    "a": "चिसो पहाडी क्षेत्रमा हुने बहुउपयोगी रूख (धेरै उचाइमा)",
+    "cat": "8. Vegetation, Wildlife & Protected Areas"
+  },
+  {
+    "q": "What are 'kharka' and 'patan' in the Nepali Himalaya?",
+    "a": "Alpine pastures used for grazing livestock",
+    "cat": "8. Vegetation, Wildlife & Protected Areas"
+  },
+  {
+    "q": "शुक्लाफाँटा कुन प्रकारको वन/मैदानका लागि प्रसिद्ध छ?",
+    "a": "फाँट (घाँसे मैदान)",
+    "cat": "8. Vegetation, Wildlife & Protected Areas"
+  },
+  {
+    "q": "एसियाली हात्तीका लागि प्रसिद्ध तराई निकुञ्ज कुन हो?",
+    "a": "चितवन र बर्दिया",
+    "cat": "8. Vegetation, Wildlife & Protected Areas"
+  },
+  {
+    "q": "बर्दियामा बग्ने नदीले राष्ट्रिय निकुञ्जलाई कसरी प्रभावित गर्छ?",
+    "a": "कर्णाली र बबईले बासस्थान र जलचरका लागि पानी दिन्छन्",
+    "cat": "8. Vegetation, Wildlife & Protected Areas"
+  },
+  {
+    "q": "तराईको मुख्य प्राकृतिक वनस्पति कुन हो?",
+    "a": "साल (सखुवा)",
+    "cat": "8. Vegetation, Wildlife & Protected Areas"
+  },
+  {
+    "q": "वन ऐन, २०४९ ले के व्यवस्था गर्‍यो?",
+    "a": "सामुदायिक र अन्य वन व्यवस्थापनको कानुनी आधार (सन् १९९३)",
+    "cat": "8. Vegetation, Wildlife & Protected Areas"
+  },
+  {
+    "q": "बफर जोन भनेको के हो?",
+    "a": "राष्ट्रिय निकुञ्ज वरपरको स्थानीय बस्ती र जङ्गल जसको संरक्षणमा समुदाय सहभागी हुन्छ",
+    "cat": "8. Vegetation, Wildlife & Protected Areas"
+  },
+  {
+    "q": "गङ्गा डल्फिन नेपालको कुन नदीमा पाइन्छ?",
+    "a": "Karnali (and Narayani)",
+    "cat": "8. Vegetation, Wildlife & Protected Areas"
+  },
+  {
+    "q": "In which national park is Mount Everest located?",
+    "a": "सगरमाथा राष्ट्रिय निकुञ्ज",
+    "cat": "8. Vegetation, Wildlife & Protected Areas"
+  },
+  {
+    "q": "शिवपुरी–नागार्जुन राष्ट्रिय निकुञ्ज कहाँ छ?",
+    "a": "काठमाडौँ उपत्यका वरपर",
+    "cat": "8. Vegetation, Wildlife & Protected Areas"
+  },
+  {
+    "q": "खैर–सिसौ वन कहाँ बढी पाइन्छ?",
+    "a": "तराईका नदी किनार र बगरमा",
+    "cat": "8. Vegetation, Wildlife & Protected Areas"
+  },
+  {
+    "q": "सखुवाको वैज्ञानिक नाम के हो?",
+    "a": "Shorea robusta",
+    "cat": "8. Vegetation, Wildlife & Protected Areas"
+  },
+  {
+    "q": "नेपालको वनस्पतिमा 'उत्कृष्ट' भनिएको फूल कुन हो?",
+    "a": "लालीगुराँस (राष्ट्रिय फूल)",
+    "cat": "8. Vegetation, Wildlife & Protected Areas"
+  },
+  {
+    "q": "Which Nepali bird is the national bird?",
+    "a": "Danphe (Himalayan monal)",
+    "cat": "8. Vegetation, Wildlife & Protected Areas"
+  },
+  {
+    "q": "हिमाली भोजपत्र (भोजपत्र) कुन उचाइतिर पाइन्छ?",
+    "a": "रूखरेखा नजिक करिब ४,००० मिटर वरपर",
+    "cat": "8. Vegetation, Wildlife & Protected Areas"
+  },
+  {
+    "q": "सबैभन्दा सानो राष्ट्रिय निकुञ्ज कुन हो?",
+    "a": "रारा राष्ट्रिय निकुञ्ज (करिब १०६ वर्ग किमी)",
+    "cat": "8. Vegetation, Wildlife & Protected Areas"
+  },
+  {
+    "q": "चिर पाइन (सल्ला) वन प्रायः कति उचाइमा पाइन्छ?",
+    "a": "करिब १,००० देखि २,००० मिटर",
+    "cat": "8. Vegetation, Wildlife & Protected Areas"
+  },
+  {
+    "q": "तराईका घाँसे मैदानमा पाइने ठूला घाँसको उदाहरण दिनुहोस्।",
+    "a": "खर, कास, नरकट",
+    "cat": "8. Vegetation, Wildlife & Protected Areas"
+  },
+  {
+    "q": "सन् २०२१ को गणनाअनुसार नेपालमा गैँडाको सङ्ख्या करिब कति थियो?",
+    "a": "करिब ७५२",
+    "cat": "8. Vegetation, Wildlife & Protected Areas"
+  },
+  {
+    "q": "कृष्णसार मृग कुन संरक्षण क्षेत्रमा पाइन्छ?",
+    "a": "कृष्णसार संरक्षण क्षेत्र (बर्दिया)",
+    "cat": "8. Vegetation, Wildlife & Protected Areas"
+  },
+  {
+    "q": "सबैभन्दा पुरानो र ठूलो संरक्षण क्षेत्र कुन हो?",
+    "a": "अन्नपूर्ण संरक्षण क्षेत्र (सन् १९८६)",
+    "cat": "8. Vegetation, Wildlife & Protected Areas"
+  },
+  {
+    "q": "हिमाली क्षेत्रका चौरी/याक पाल्ने पशुपालनलाई के भनिन्छ?",
+    "a": "चौरी पालन (चरन-आधारित)",
+    "cat": "8. Vegetation, Wildlife & Protected Areas"
+  },
+  {
+    "q": "राष्ट्रिय निकुञ्ज तथा वन्यजन्तु संरक्षण ऐन कहिले आयो?",
+    "a": "२०२९ साल (सन् १९७३)",
+    "cat": "8. Vegetation, Wildlife & Protected Areas"
+  },
+  {
+    "q": "जनगणना २०७८ मा मातृभाषाको संख्या कति थियो?",
+    "a": "१२४",
+    "cat": "9. Population & Settlements"
+  },
+  {
+    "q": "थकाली समुदाय कुन क्षेत्रमा बस्छन्?",
+    "a": "मुस्ताङको थक खोला क्षेत्र",
+    "cat": "9. Population & Settlements"
+  },
+  {
+    "q": "काठमाडौँ उपत्यकामा जनसङ्ख्या घना हुनुको कारण के हो?",
+    "a": "राजधानी, रोजगारी, शिक्षा र स्वास्थ्य सुविधा",
+    "cat": "9. Population & Settlements"
+  },
+  {
+    "q": "Which district is home to Pokhara?",
+    "a": "Kaski",
+    "cat": "9. Population & Settlements"
+  },
+  {
+    "q": "नेपालमा हिन्दु धर्मावलम्बी करिब कति प्रतिशत छन् (२०७८)?",
+    "a": "करिब ८१%",
+    "cat": "9. Population & Settlements"
+  },
+  {
+    "q": "भरतपुर कुन जिल्लामा छ?",
+    "a": "चितवन",
+    "cat": "9. Population & Settlements"
+  },
+  {
+    "q": "हेटौँडा कुन जिल्लामा छ?",
+    "a": "मकवानपुर",
+    "cat": "9. Population & Settlements"
+  },
+  {
+    "q": "नेवारहरू मुख्य रूपमा कहाँ बस्छन्?",
+    "a": "काठमाडौँ उपत्यका",
+    "cat": "9. Population & Settlements"
+  },
+  {
+    "q": "नेपालको कुन भौगोलिक क्षेत्रमा जनसङ्ख्या सबैभन्दा बढी बसोबास गर्छ?",
+    "a": "तराई (करिब आधाभन्दा बढी)",
+    "cat": "9. Population & Settlements"
+  },
+  {
+    "q": "बुटवल कुन जिल्लामा छ?",
+    "a": "रुपन्देही",
+    "cat": "9. Population & Settlements"
+  },
+  {
+    "q": "नेपालगञ्ज कुन जिल्लामा छ?",
+    "a": "बाँके",
+    "cat": "9. Population & Settlements"
+  },
+  {
+    "q": "जनसङ्ख्याको उमेर संरचनाको चित्रलाई के भनिन्छ?",
+    "a": "जनसङ्ख्या पिरामिड",
+    "cat": "9. Population & Settlements"
+  },
+  {
+    "q": "How many wards does Kathmandu Metropolitan City have?",
+    "a": "32",
+    "cat": "9. Population & Settlements"
+  },
+  {
+    "q": "नेपालमा जनगणना कति वर्षको अन्तरालमा गरिन्छ?",
+    "a": "१० वर्ष",
+    "cat": "9. Population & Settlements"
+  },
+  {
+    "q": "पहाडी क्षेत्रबाट तराईतर्फ जनसङ्ख्या सर्ने प्रक्रियालाई के भनिन्छ?",
+    "a": "Internal (hill-to-Terai) migration",
+    "cat": "9. Population & Settlements"
+  },
+  {
+    "q": "Which Nepali body conducts the national census?",
+    "a": "National Statistics Office (formerly the Central Bureau of Statistics)",
+    "cat": "9. Population & Settlements"
+  },
+  {
+    "q": "नेपालको सबैभन्दा ठूलो जातीय समूह (२०७८) कुन हो?",
+    "a": "खस क्षेत्री",
+    "cat": "9. Population & Settlements"
+  },
+  {
+    "q": "Which is the most populous city of Nepal?",
+    "a": "काठमाडौँ",
+    "cat": "9. Population & Settlements"
+  },
+  {
+    "q": "In which district is Biratnagar located?",
+    "a": "Morang",
+    "cat": "9. Population & Settlements"
+  },
+  {
+    "q": "धरान कुन जिल्लामा पर्छ?",
+    "a": "सुनसरी",
+    "cat": "9. Population & Settlements"
+  },
+  {
+    "q": "लुम्बिनी कुन जिल्लामा पर्छ?",
+    "a": "रुपन्देही",
+    "cat": "9. Population & Settlements"
+  },
+  {
+    "q": "हिमाली क्षेत्रमा मानिस कम बस्नुका कारण के हुन्?",
+    "a": "कठिन भू-बनावट, चिसो हावापानी र सुविधाको अभाव",
+    "cat": "9. Population & Settlements"
+  },
+  {
+    "q": "रेमिट्यान्स भनेको के हो?",
+    "a": "विदेशमा काम गर्नेले आफ्नो परिवारलाई पठाउने रकम",
+    "cat": "9. Population & Settlements"
+  },
+  {
+    "q": "कुन जिल्लाको जनसङ्ख्या सबैभन्दा बढी छ?",
+    "a": "काठमाडौँ",
+    "cat": "9. Population & Settlements"
+  },
+  {
+    "q": "नेपालमा साक्षरता दर (२०२१) करिब कति थियो?",
+    "a": "करिब ७६.२%",
+    "cat": "9. Population & Settlements"
+  },
+  {
+    "q": "नेपालको कुल जनसङ्ख्या (जनगणना २०७८) कति थियो?",
+    "a": "२,९१,६४,५७८",
+    "cat": "9. Population & Settlements"
+  },
+  {
+    "q": "नेपालको जनसङ्ख्या वृद्धि दर (२०२१) करिब कति थियो?",
+    "a": "करिब ०.९२% प्रति वर्ष",
+    "cat": "9. Population & Settlements"
+  },
+  {
+    "q": "घना (compact) बस्ती कहाँ बढी देखिन्छ?",
+    "a": "तराई र काठमाडौँ उपत्यका",
+    "cat": "9. Population & Settlements"
+  },
+  {
+    "q": "कुन जिल्लाको जनसङ्ख्या सबैभन्दा कम छ?",
+    "a": "मनाङ",
+    "cat": "9. Population & Settlements"
+  },
+  {
+    "q": "जनगणनाको पहिलो चरणमा के गरिन्छ?",
+    "a": "घरपरिवार सूचीकरण/गणना",
+    "cat": "9. Population & Settlements"
+  },
+  {
+    "q": "थारु जाति मुख्य रूपमा कहाँ बस्छन्?",
+    "a": "तराई (चितवन, बर्दिया, कैलाली आदि)",
+    "cat": "9. Population & Settlements"
+  },
+  {
+    "q": "वैदेशिक रोजगारीका लागि नेपाली प्रायः कुन-कुन गन्तव्यमा जान्छन्?",
+    "a": "खाडी मुलुक (कतार, साउदी, यूएई), मलेसिया र भारत",
+    "cat": "9. Population & Settlements"
+  },
+  {
+    "q": "नेपाल अहिले जनसाङ्ख्यिक अवस्थामा के भनिन्छ?",
+    "a": "जनसाङ्ख्यिक संक्रमण (जन्मदर घट्दै, युवा जनसङ्ख्या बढी)",
+    "cat": "9. Population & Settlements"
+  },
+  {
+    "q": "वीरगञ्ज कुन जिल्लामा छ?",
+    "a": "पर्सा",
+    "cat": "9. Population & Settlements"
+  },
+  {
+    "q": "In which district is Janakpur located?",
+    "a": "धनुषा",
+    "cat": "9. Population & Settlements"
+  },
+  {
+    "q": "जनगणना २०६८ (२०११) मा कति जनसङ्ख्या थियो?",
+    "a": "२,६४,९४,५०४",
+    "cat": "9. Population & Settlements"
+  },
+  {
+    "q": "What share of Nepal's GDP do remittances roughly account for?",
+    "a": "Roughly a quarter (about 22-26%, varying by year)",
+    "cat": "9. Population & Settlements"
+  },
+  {
+    "q": "नेपालमा बस्ती किन चिसो/अग्लो ठाउँमा कम र तराईमा बढी छन्?",
+    "a": "तराई समथर, उर्वर र पहुँचयोग्य हुने भएकाले",
+    "cat": "9. Population & Settlements"
+  },
+  {
+    "q": "नेपालको जनघनत्व (२०२१) करिब कति हो?",
+    "a": "करिब १९८ व्यक्ति प्रति वर्ग किमी",
+    "cat": "9. Population & Settlements"
+  },
+  {
+    "q": "लिम्बू जातिको परम्परागत थलो कुन हो?",
+    "a": "पूर्वी नेपालको 'लिम्बुवान' (ताप्लेजुङ, पाँचथर, इलाम)",
+    "cat": "9. Population & Settlements"
+  },
+  {
+    "q": "धनगढी कुन जिल्लामा पर्छ?",
+    "a": "कैलाली",
+    "cat": "9. Population & Settlements"
+  },
+  {
+    "q": "विराटनगर कुन जिल्लामा छ?",
+    "a": "मोरङ",
+    "cat": "9. Population & Settlements"
+  },
+  {
+    "q": "शेर्पा समुदायको मुख्य बसोबास क्षेत्र कुन हो?",
+    "a": "सोलुखुम्बु, ओखलढुङ्गा र अन्य उच्च हिमाली भाग",
+    "cat": "9. Population & Settlements"
+  },
+  {
+    "q": "नगरपालिका र गाउँपालिकाको मुख्य फरक के हो?",
+    "a": "नगरपालिका सहरी क्षेत्र हो; गाउँपालिका ग्रामीण क्षेत्र",
+    "cat": "9. Population & Settlements"
+  },
+  {
+    "q": "गुरुङ जाति मुख्य रूपमा कहाँ बस्छन्?",
+    "a": "गण्डकी क्षेत्र (कास्की, लमजुङ, मनाङ)",
+    "cat": "9. Population & Settlements"
+  },
+  {
+    "q": "नेपालको दोस्रो धेरै बोलिने मातृभाषा कुन हो?",
+    "a": "मैथिली",
+    "cat": "9. Population & Settlements"
+  },
+  {
+    "q": "जनकपुर कुन जिल्लामा पर्छ?",
+    "a": "धनुषा",
+    "cat": "9. Population & Settlements"
+  },
+  {
+    "q": "नेपालका बौद्ध धर्मावलम्बी करिब कति प्रतिशत छन्?",
+    "a": "करिब ८%",
+    "cat": "9. Population & Settlements"
+  },
+  {
+    "q": "नेपालको सबैभन्दा ठूलो सहर (जनसङ्ख्याका आधारमा) कुन हो?",
+    "a": "काठमाडौँ महानगरपालिका",
+    "cat": "9. Population & Settlements"
+  },
+  {
+    "q": "जनगणना २०७८ मा नेपालमा जात/जातिको संख्या कति थियो?",
+    "a": "१४२",
+    "cat": "9. Population & Settlements"
+  },
+  {
+    "q": "तामाङ जाति मुख्य रूपमा कहाँ बस्छन्?",
+    "a": "काठमाडौँ वरपरका पहाडी जिल्ला (रसुवा, नुवाकोट, सिन्धुपाल्चोक आदि)",
+    "cat": "9. Population & Settlements"
+  },
+  {
+    "q": "नेपालमा सबैभन्दा बढी बोलिने मातृभाषा कुन हो?",
+    "a": "नेपाली (करिब ४५%)",
+    "cat": "9. Population & Settlements"
+  },
+  {
+    "q": "What is 'internal migration'? Give a Nepali example.",
+    "a": "Movement within a country, e.g. from hills to the Terai or from villages to Kathmandu",
+    "cat": "9. Population & Settlements"
+  },
+  {
+    "q": "जनगणना भनेको के हो?",
+    "a": "निश्चित समयमा देशका सबै व्यक्तिको गणना गरेर सङ्कलन गरिने तथ्याङ्क",
+    "cat": "9. Population & Settlements"
+  },
+  {
+    "q": "छरिएको (dispersed) बस्ती कहाँ बढी हुन्छ?",
+    "a": "पहाडी क्षेत्र",
+    "cat": "9. Population & Settlements"
+  },
+  {
+    "q": "पूर्वी पहाडका 'राई' जातिको क्षेत्र कुन हो?",
+    "a": "Eastern hills (Khotang, Bhojpur, Solukhumbu, Sankhuwasabha) - part of Kirat region",
+    "cat": "9. Population & Settlements"
+  },
+  {
+    "q": "गोरखा भूकम्पको परिमाण कति थियो?",
+    "a": "७.८ (मोमेन्ट म्याग्निच्युड)",
+    "cat": "10. Hazards & Environment"
+  },
+  {
+    "q": "राष्ट्रिय भूकम्प सुरक्षा दिवस कहिले मनाइन्छ?",
+    "a": "माघ २ (जनवरी १५)",
+    "cat": "10. Hazards & Environment"
+  },
+  {
+    "q": "अनियन्त्रित सहरीकरणले काठमाडौँ उपत्यकामा कस्तो समस्या ल्याएको छ?",
+    "a": "खेतीयोग्य जमिन घट्नु, प्रदूषण र जोखिमयुक्त बसोबास",
+    "cat": "10. Hazards & Environment"
+  },
+  {
+    "q": "भू-क्षय बढी हुने नेपालका क्षेत्र कुन हुन्?",
+    "a": "चुरे र मध्य पहाड",
+    "cat": "10. Hazards & Environment"
+  },
+  {
+    "q": "बाढीबाट जोगिन तराईका बासिन्दाले के गर्नुपर्छ?",
+    "a": "Build embankments, early warning, and avoid settling in flood plains",
+    "cat": "10. Hazards & Environment"
+  },
+  {
+    "q": "नेपाल किन भूकम्पको उच्च जोखिममा छ?",
+    "a": "भारतीय र यूरेसियन प्लेट ठोक्किइरहेको क्षेत्रमा पर्ने भएकाले",
+    "cat": "10. Hazards & Environment"
+  },
+  {
+    "q": "What was the magnitude of the 12 May 2015 aftershock in Dolakha?",
+    "a": "About 7.3",
+    "cat": "10. Hazards & Environment"
+  },
+  {
+    "q": "What is the main cause of Himalayan earthquakes?",
+    "a": "The ongoing collision of the Indian and Eurasian tectonic plates",
+    "cat": "10. Hazards & Environment"
+  },
+  {
+    "q": "विश्व वन्यजन्तु दिवस कहिले मनाइन्छ?",
+    "a": "३ मार्च",
+    "cat": "10. Hazards & Environment"
+  },
+  {
+    "q": "जल उत्पन्न विपद् भनेको के हो?",
+    "a": "बाढी, पहिरो, हिमताल विस्फोट जस्ता पानीसँग सम्बन्धित विपद्",
+    "cat": "10. Hazards & Environment"
+  },
+  {
+    "q": "बाढी पूर्वसूचना प्रणालीले के गर्छ?",
+    "a": "बाढी आउनुअघि जनतालाई अग्रिम चेतावनी दिन्छ",
+    "cat": "10. Hazards & Environment"
+  },
+  {
+    "q": "हिमालय विश्वको औसतभन्दा कसरी तातिँदै छ?",
+    "a": "विश्वको औसतभन्दा छिटो (उच्च पहाडी क्षेत्रमा बढी)",
+    "cat": "10. Hazards & Environment"
+  },
+  {
+    "q": "विपद्‌पछि पुनर्निर्माणका लागि नेपालमा कुन निकाय बनाइयो (२०१५ भूकम्पपछि)?",
+    "a": "राष्ट्रिय पुनर्निर्माण प्राधिकरण",
+    "cat": "10. Hazards & Environment"
+  },
+  {
+    "q": "सन् २०१४ अगस्टमा सिन्धुपाल्चोकको जुरेमा के भयो?",
+    "a": "ठूलो पहिरो गई सुनकोशी नदी थुनिएर कृत्रिम ताल बन्यो",
+    "cat": "10. Hazards & Environment"
+  },
+  {
+    "q": "सन् २०१४ मा खुम्बु हिमपहिरोमा कति शेर्पा गाइडको मृत्यु भयो?",
+    "a": "१६ जना",
+    "cat": "10. Hazards & Environment"
+  },
+  {
+    "q": "जलवायु परिवर्तनले हिमालयमा के असर पारेको छ?",
+    "a": "हिमनदी तीव्र रूपमा पग्लँदै छन् र नयाँ हिमताल बन्दै छन्",
+    "cat": "10. Hazards & Environment"
+  },
+  {
+    "q": "प्राकृतिक र मानवीय कारणले हुने विपद्का दुई उदाहरण दिनुहोस्।",
+    "a": "प्राकृतिक: भूकम्प, बाढी; मानवीय: सडक दुर्घटना, आगलागी (कुनै दुई)",
+    "cat": "10. Hazards & Environment"
+  },
+  {
+    "q": "बाढी र पहिरोले नेपालमा कुन समयमा सबैभन्दा बढी क्षति गर्छ?",
+    "a": "मनसुन (असार–भदौ)",
+    "cat": "10. Hazards & Environment"
+  },
+  {
+    "q": "वन डढेलो नेपालमा कुन समयमा बढी हुन्छ?",
+    "a": "चैत–वैशाख (मार्च–मे)",
+    "cat": "10. Hazards & Environment"
+  },
+  {
+    "q": "काठमाडौँ उपत्यकामा वायु प्रदूषण बढ्नुको एउटा कारण के हो?",
+    "a": "कचौरा आकारको उपत्यका, सवारी साधन, ईंटा भट्टा र धुलो",
+    "cat": "10. Hazards & Environment"
+  },
+  {
+    "q": "गोरखा भूकम्पमा करिब कति मानिसको मृत्यु भयो?",
+    "a": "करिब ९,००० (८,९७०)",
+    "cat": "10. Hazards & Environment"
+  },
+  {
+    "q": "खानेपानीको स्रोत सङ्कटमा पर्नुको कारण के हो?",
+    "a": "मूल सुक्नु, वन विनाश र जलवायु परिवर्तन",
+    "cat": "10. Hazards & Environment"
+  },
+  {
+    "q": "गोरखा भूकम्पको अधिकेन्द्र कहाँ थियो?",
+    "a": "गोरखाको बारपाक",
+    "cat": "10. Hazards & Environment"
+  },
+  {
+    "q": "२००८ मा कोशी नदीको तटबन्ध कहाँ भत्किएको थियो?",
+    "a": "सुनसरीको कुसहा क्षेत्रमा",
+    "cat": "10. Hazards & Environment"
+  },
+  {
+    "q": "विपद् जोखिम न्यूनीकरण तथा व्यवस्थापन ऐन कहिले आयो?",
+    "a": "२०७४ साल (सन् २०१७)",
+    "cat": "10. Hazards & Environment"
+  },
+  {
+    "q": "गोरखा भूकम्प कहिले गएको थियो?",
+    "a": "२०७२ वैशाख १२ (२५ अप्रिल २०१५)",
+    "cat": "10. Hazards & Environment"
+  },
+  {
+    "q": "चुरे क्षेत्रमा अत्यधिक उत्खननले के असर गर्छ?",
+    "a": "भू-क्षय, नदी बाढी र तराईमा भूमिगत पानीको स्तर घट्ने",
+    "cat": "10. Hazards & Environment"
+  },
+  {
+    "q": "वायु प्रदूषण नेपालमा कहाँ बढी देखिन्छ?",
+    "a": "काठमाडौँ उपत्यका र तराईका सहरहरू",
+    "cat": "10. Hazards & Environment"
+  },
+  {
+    "q": "वन विनाशका दुई मुख्य कारण लेख्नुहोस्।",
+    "a": "दाउरा/काठको अत्यधिक प्रयोग र कृषि/बस्ती विस्तार",
+    "cat": "10. Hazards & Environment"
+  },
+  {
+    "q": "By what year has Nepal pledged to reach net-zero emissions?",
+    "a": "2045",
+    "cat": "10. Hazards & Environment"
+  },
+  {
+    "q": "What is a landslide?",
+    "a": "भिरालो ढलानबाट माटो, ढुङ्गा र भग्नावशेष एकैसाथ तल खस्ने घटना",
+    "cat": "10. Hazards & Environment"
+  },
+  {
+    "q": "भूकम्प आउँदा सुरक्षित रहन के गर्नुपर्छ?",
+    "a": "'झुक्नुस्, ढाक्नुस् र समात्नुस्' (Drop, Cover, Hold) र खुला ठाउँ जानुस्",
+    "cat": "10. Hazards & Environment"
+  },
+  {
+    "q": "नेपाल जलवायु परिवर्तनप्रति किन संवेदनशील छ?",
+    "a": "भिरालो भू-बनावट, हिमनदी, मनसुनमा निर्भरता र गरिबीका कारण",
+    "cat": "10. Hazards & Environment"
+  },
+  {
+    "q": "जलवायु परिवर्तनको अनुकूलन भनेको के हो?",
+    "a": "Adjusting practices and systems to cope with the effects of climate change",
+    "cat": "10. Hazards & Environment"
+  },
+  {
+    "q": "What is sustainable development?",
+    "a": "Development that meets present needs without harming future generations' ability to meet theirs",
+    "cat": "10. Hazards & Environment"
+  },
+  {
+    "q": "भू-क्षय रोक्ने दुई उपाय लेख्नुहोस्।",
+    "a": "वृक्षरोपण र भिरालो जमिनमा सिँढीखेती/कन्टुर खेती",
+    "cat": "10. Hazards & Environment"
+  },
+  {
+    "q": "हिमताल विस्फोट बाढी (GLOF) भनेको के हो?",
+    "a": "हिमतालको बाँध फुटेर आउने अचानक ठूलो बाढी",
+    "cat": "10. Hazards & Environment"
+  },
+  {
+    "q": "पर्यावरण संरक्षणमा 3R भनेको के हो?",
+    "a": "घटाउने, पुनः प्रयोग गर्ने र पुनःचक्रण (Reduce, Reuse, Recycle)",
+    "cat": "10. Hazards & Environment"
+  },
+  {
+    "q": "नेपालको विपद् व्यवस्थापन गर्ने राष्ट्रिय निकाय कुन हो?",
+    "a": "राष्ट्रिय विपद् जोखिम न्यूनीकरण तथा व्यवस्थापन प्राधिकरण (NDRRMA)",
+    "cat": "10. Hazards & Environment"
+  },
+  {
+    "q": "Which international framework (2015-2030) guides disaster risk reduction?",
+    "a": "Sendai Framework for Disaster Risk Reduction",
+    "cat": "10. Hazards & Environment"
+  },
+  {
+    "q": "पहिरो जानुका मुख्य कारण के हुन्?",
+    "a": "भिरालो जमिन, भारी वर्षा, कमजोर चट्टान, वन विनाश र अव्यवस्थित सडक निर्माण",
+    "cat": "10. Hazards & Environment"
+  },
+  {
+    "q": "नेपाल–बिहार भूकम्प कहिले गएको थियो?",
+    "a": "15 January 1934 (2 Magh 1990 BS), magnitude about 8",
+    "cat": "10. Hazards & Environment"
+  },
+  {
+    "q": "भूकम्प मापन गर्ने यन्त्र कुन हो?",
+    "a": "सिस्मोग्राफ",
+    "cat": "10. Hazards & Environment"
+  },
+  {
+    "q": "हिमताल विस्फोटको खतरा बढी कुन क्षेत्रमा छ?",
+    "a": "हिमाली क्षेत्र (इम्जा, त्सो रोल्पा आदि)",
+    "cat": "10. Hazards & Environment"
+  },
+  {
+    "q": "हिमपहिरो (avalanche) भनेको के हो?",
+    "a": "A sudden slide of a large mass of snow down a slope",
+    "cat": "10. Hazards & Environment"
+  },
+  {
+    "q": "विश्व वातावरण दिवस कहिले मनाइन्छ?",
+    "a": "५ जुन",
+    "cat": "10. Hazards & Environment"
+  },
+  {
+    "q": "नेपालको वायु गुणस्तर नाप्ने सूचकाङ्कलाई के भनिन्छ?",
+    "a": "वायु गुणस्तर सूचकाङ्क (AQI)",
+    "cat": "10. Hazards & Environment"
+  },
+  {
+    "q": "What is a flood early warning system?",
+    "a": "A system that detects rising water and warns communities before flooding",
+    "cat": "10. Hazards & Environment"
+  },
+  {
+    "q": "काठमाडौँ–तराई द्रुतमार्ग कुन दुई ठाउँ जोड्छ?",
+    "a": "Kathmandu and Nijgadh (Bara) in the Terai",
+    "cat": "11. Transport, Tourism & Heritage"
+  },
+  {
+    "q": "बौद्धनाथ स्तूपको विशेषता के हो?",
+    "a": "नेपालको सबैभन्दा ठूलो स्तूप र तिब्बती बौद्ध धर्मको प्रमुख केन्द्र",
+    "cat": "11. Transport, Tourism & Heritage"
+  },
+  {
+    "q": "What is the TIMS card?",
+    "a": "Trekkers' Information Management System card for registering trekkers",
+    "cat": "11. Transport, Tourism & Heritage"
+  },
+  {
+    "q": "लुक्ला विमानस्थलको विशेषता के हो?",
+    "a": "Short, sloping runway at high altitude, among the world's most challenging",
+    "cat": "11. Transport, Tourism & Heritage"
+  },
+  {
+    "q": "पाथीभरा देवी मन्दिर कुन जिल्लामा छ?",
+    "a": "ताप्लेजुङ",
+    "cat": "11. Transport, Tourism & Heritage"
+  },
+  {
+    "q": "पोखरा पर्यटकीय राजधानी किन भनिन्छ?",
+    "a": "फेवा ताल, हिमाल र पदयात्राको प्रवेशद्वार भएकाले",
+    "cat": "11. Transport, Tourism & Heritage"
+  },
+  {
+    "q": "What is Nepal's national flag carrier?",
+    "a": "Nepal Airlines Corporation",
+    "cat": "11. Transport, Tourism & Heritage"
+  },
+  {
+    "q": "चन्द्रागिरि केबल कार कहाँ छ?",
+    "a": "काठमाडौँ (चन्द्रागिरि हिल्स)",
+    "cat": "11. Transport, Tourism & Heritage"
+  },
+  {
+    "q": "लुम्बिनीमा रहेको अशोक स्तम्भ कसले राखेका थिए?",
+    "a": "सम्राट अशोक (करिब २४९ ईसापूर्व)",
+    "cat": "11. Transport, Tourism & Heritage"
+  },
+  {
+    "q": "चितवनको सौराहा किन प्रसिद्ध छ?",
+    "a": "जङ्गल सफारी र वन्यजन्तु पर्यटन",
+    "cat": "11. Transport, Tourism & Heritage"
+  },
+  {
+    "q": "नेपालका तीन अन्तर्राष्ट्रिय विमानस्थल कुन-कुन हुन्?",
+    "a": "त्रिभुवन (काठमाडौँ), गौतम बुद्ध (भैरहवा) र पोखरा अन्तर्राष्ट्रिय विमानस्थल",
+    "cat": "11. Transport, Tourism & Heritage"
+  },
+  {
+    "q": "दक्षिणकाली मन्दिर कहाँ छ?",
+    "a": "काठमाडौँ (फर्पिङ नजिक)",
+    "cat": "11. Transport, Tourism & Heritage"
+  },
+  {
+    "q": "पृथ्वी राजमार्ग कसको सहयोगमा बनेको थियो?",
+    "a": "भारत सरकारको सहयोगमा",
+    "cat": "11. Transport, Tourism & Heritage"
+  },
+  {
+    "q": "मध्यपहाडी (पुष्पलाल) लोकमार्ग कुन क्षेत्रमा पर्छ?",
+    "a": "पहाडी क्षेत्र (पूर्व–पश्चिम)",
+    "cat": "11. Transport, Tourism & Heritage"
+  },
+  {
+    "q": "Which Nepal highway connects Kathmandu with Pokhara?",
+    "a": "पृथ्वी राजमार्ग",
+    "cat": "11. Transport, Tourism & Heritage"
+  },
+  {
+    "q": "सगरमाथा क्षेत्रको मुख्य ट्रेकिङ गन्तव्य के हो?",
+    "a": "सगरमाथा आधार शिविर (EBC) ट्रेक",
+    "cat": "11. Transport, Tourism & Heritage"
+  },
+  {
+    "q": "काठमाडौँ र पोखरालाई जोड्ने राजमार्गको नाम के हो?",
+    "a": "पृथ्वी राजमार्ग",
+    "cat": "11. Transport, Tourism & Heritage"
+  },
+  {
+    "q": "पशुपतिनाथ मन्दिर कुन वर्ष विश्व सम्पदामा सूचीकृत भयो?",
+    "a": "सन् १९७९ (काठमाडौँ उपत्यकाको अंशका रूपमा)",
+    "cat": "11. Transport, Tourism & Heritage"
+  },
+  {
+    "q": "गौतम बुद्ध अन्तर्राष्ट्रिय विमानस्थल कहाँ छ?",
+    "a": "भैरहवा (रुपन्देही)",
+    "cat": "11. Transport, Tourism & Heritage"
+  },
+  {
+    "q": "अपर मुस्ताङ ट्रेकमा कुन प्राचीन गढीयुक्त सहर पर्छ?",
+    "a": "लो मन्थाङ",
+    "cat": "11. Transport, Tourism & Heritage"
+  },
+  {
+    "q": "अरनिको राजमार्ग कसको सहयोगमा बनेको थियो?",
+    "a": "चीन सरकारको सहयोगमा",
+    "cat": "11. Transport, Tourism & Heritage"
+  },
+  {
+    "q": "त्रिभुवन अन्तर्राष्ट्रिय विमानस्थल कुन ठाउँमा छ?",
+    "a": "काठमाडौँ (गौचर)",
+    "cat": "11. Transport, Tourism & Heritage"
+  },
+  {
+    "q": "स्वर्गद्वारी कुन जिल्लामा पर्छ?",
+    "a": "प्युठान",
+    "cat": "11. Transport, Tourism & Heritage"
+  },
+  {
+    "q": "जनकपुरधाम किन प्रसिद्ध छ?",
+    "a": "सीता (जानकी) को जन्मस्थल र जानकी मन्दिरका कारण",
+    "cat": "11. Transport, Tourism & Heritage"
+  },
+  {
+    "q": "पर्यटन वर्ष (Visit Nepal Year) नेपालमा कुन-कुन वर्ष घोषणा गरिएको थियो?",
+    "a": "१९९८, २०११ र २०२०",
+    "cat": "11. Transport, Tourism & Heritage"
+  },
+  {
+    "q": "लुम्बिनीमा कुन मन्दिर पवित्र मानिन्छ?",
+    "a": "माया देवी मन्दिर",
+    "cat": "11. Transport, Tourism & Heritage"
+  },
+  {
+    "q": "गोरखा दरबार केका लागि प्रसिद्ध छ?",
+    "a": "पृथ्वीनारायण शाहको जन्मस्थान र ऐतिहासिक गढी",
+    "cat": "11. Transport, Tourism & Heritage"
+  },
+  {
+    "q": "नेपालका प्रसिद्ध पदयात्रा क्षेत्रहरूलाई संरक्षण गर्न राखिने शुल्कलाई के भनिन्छ?",
+    "a": "प्रवेश/संरक्षण शुल्क (जस्तै ACAP, निकुञ्ज शुल्क)",
+    "cat": "11. Transport, Tourism & Heritage"
+  },
+  {
+    "q": "नेपालको पहिलो रेल सेवा कहिले सुरु भएको थियो?",
+    "a": "सन् १९२७ मा रक्सौल–अमलेखगञ्ज रेल (नेपाल सरकार रेलवे)",
+    "cat": "11. Transport, Tourism & Heritage"
+  },
+  {
+    "q": "नेपाल पर्यटन बोर्डको स्थापना कहिले भयो?",
+    "a": "सन् १९९८",
+    "cat": "11. Transport, Tourism & Heritage"
+  },
+  {
+    "q": "स्वयम्भूनाथलाई अर्को नाम के भनिन्छ?",
+    "a": "बाँदरे मन्दिर (Monkey Temple)",
+    "cat": "11. Transport, Tourism & Heritage"
+  },
+  {
+    "q": "पासाङ ल्हामु राजमार्गले कुन ठाउँ जोड्छ?",
+    "a": "नुवाकोट–रसुवा (रसुवागढी) हुँदै चीनको केरुङ",
+    "cat": "11. Transport, Tourism & Heritage"
+  },
+  {
+    "q": "सारङकोट कहाँ पर्छ?",
+    "a": "पोखरा, कास्की (सूर्योदय हेर्न प्रसिद्ध)",
+    "cat": "11. Transport, Tourism & Heritage"
+  },
+  {
+    "q": "कर्णाली राजमार्गले कुन दुई स्थान जोड्छ?",
+    "a": "सुर्खेत र जुम्ला",
+    "cat": "11. Transport, Tourism & Heritage"
+  },
+  {
+    "q": "Which highway connects Kathmandu with Kerung (Tibet)?",
+    "a": "Rasuwagadhi (Syaphrubesi–Kerung) route / Pasang Lhamu Highway",
+    "cat": "11. Transport, Tourism & Heritage"
+  },
+  {
+    "q": "काठमाडौँ उपत्यकाका सात सम्पदा क्षेत्र कुन-कुन हुन्?",
+    "a": "हनुमानढोका, पाटन र भक्तपुर दरबार क्षेत्र, स्वयम्भूनाथ, बौद्धनाथ, पशुपतिनाथ र चाँगुनारायण",
+    "cat": "11. Transport, Tourism & Heritage"
+  },
+  {
+    "q": "महेन्द्र राजमार्गको लम्बाइ करिब कति हो?",
+    "a": "करिब १,०२७ किमी",
+    "cat": "11. Transport, Tourism & Heritage"
+  },
+  {
+    "q": "मनकामना केबल कार कहाँ छ?",
+    "a": "गोरखा (त्रिशूली नदी किनारबाट मनकामना मन्दिर)",
+    "cat": "11. Transport, Tourism & Heritage"
+  },
+  {
+    "q": "राष्ट्रिय सडक सञ्जाल सुदृढ गर्न नेपालमा केन्द्रीय निकाय कुन हो?",
+    "a": "सडक विभाग (Department of Roads)",
+    "cat": "11. Transport, Tourism & Heritage"
+  },
+  {
+    "q": "काठमाडौँ रिङ रोडको लम्बाइ करिब कति हो?",
+    "a": "करिब २७ किमी",
+    "cat": "11. Transport, Tourism & Heritage"
+  },
+  {
+    "q": "हुलाकी राजमार्ग कुन क्षेत्रमा बन्दैछ?",
+    "a": "तराईको दक्षिणी भागमा (पूर्व–पश्चिम)",
+    "cat": "11. Transport, Tourism & Heritage"
+  },
+  {
+    "q": "मनकामना मन्दिर कुन जिल्लामा छ?",
+    "a": "गोरखा",
+    "cat": "11. Transport, Tourism & Heritage"
+  },
+  {
+    "q": "काठमाडौँ–वीरगञ्ज राजमार्गको नाम के हो?",
+    "a": "त्रिभुवन राजपथ",
+    "cat": "11. Transport, Tourism & Heritage"
+  },
+  {
+    "q": "What is a 'tea house' trek in Nepal?",
+    "a": "Trekking where hikers stay and eat in simple lodges along the trail",
+    "cat": "11. Transport, Tourism & Heritage"
+  },
+  {
+    "q": "काठमाडौँ–कोदारी (चीन) राजमार्गको नाम के हो?",
+    "a": "अरनिको राजमार्ग",
+    "cat": "11. Transport, Tourism & Heritage"
+  },
+  {
+    "q": "Which airport serves Everest region flights from Kathmandu?",
+    "a": "Tenzing-Hillary Airport at Lukla (about 2,860 m)",
+    "cat": "11. Transport, Tourism & Heritage"
+  },
+  {
+    "q": "पूर्व–पश्चिम राजमार्गलाई अर्को नाम के भनिन्छ?",
+    "a": "महेन्द्र राजमार्ग",
+    "cat": "11. Transport, Tourism & Heritage"
+  },
+  {
+    "q": "पोखरा अन्तर्राष्ट्रिय विमानस्थल कुन वर्ष सञ्चालनमा आयो?",
+    "a": "२०७९ (सन् २०२३)",
+    "cat": "11. Transport, Tourism & Heritage"
+  },
+  {
+    "q": "Which UNESCO site in Nepal is the birthplace of the Buddha?",
+    "a": "Lumbini",
+    "cat": "11. Transport, Tourism & Heritage"
+  },
+  {
+    "q": "कालीगण्डकी करिडोरले कुन क्षेत्रलाई चीनको सिमानासँग जोड्छ?",
+    "a": "बेनी–जोमसोम–कोरला",
+    "cat": "11. Transport, Tourism & Heritage"
+  },
+  {
+    "q": "लुम्बिनी कुन महान् व्यक्तिको जन्मस्थल हो?",
+    "a": "गौतम बुद्ध",
+    "cat": "11. Transport, Tourism & Heritage"
+  },
+  {
+    "q": "नेपालमा सन् २०१९ मा करिब कति पर्यटक आएका थिए?",
+    "a": "करिब १२ लाख",
+    "cat": "11. Transport, Tourism & Heritage"
+  },
+  {
+    "q": "नेपालका विशेष अनुमति चाहिने ट्रेकिङ क्षेत्रका दुई उदाहरण दिनुहोस्।",
+    "a": "अपर मुस्ताङ, डोल्पो, मनास्लु र कञ्चनजङ्घा क्षेत्र",
+    "cat": "11. Transport, Tourism & Heritage"
+  },
+  {
+    "q": "तानसेन (पाल्पा) शहरको विशेषता के हो?",
+    "a": "ढाका टोपी/हस्तकला र श्रीनगर हिलबाट हिमाली दृश्य",
+    "cat": "11. Transport, Tourism & Heritage"
+  },
+  {
+    "q": "मुक्तिनाथ कुन जिल्लामा पर्छ?",
+    "a": "मुस्ताङ",
+    "cat": "11. Transport, Tourism & Heritage"
+  },
+  {
+    "q": "बाराहक्षेत्र कुन जिल्लामा छ?",
+    "a": "सुनसरी",
+    "cat": "11. Transport, Tourism & Heritage"
+  },
+  {
+    "q": "बन्दीपुर बजार कुन जिल्लामा छ र केका लागि प्रसिद्ध छ?",
+    "a": "तनहुँ; पुरानो नेवार बजार",
+    "cat": "11. Transport, Tourism & Heritage"
+  },
+  {
+    "q": "Which is the birthplace of Gautam Buddha?",
+    "a": "लुम्बिनी (रुपन्देही)",
+    "cat": "11. Transport, Tourism & Heritage"
+  },
+  {
+    "q": "What is the Annapurna Circuit?",
+    "a": "A famous trek around the Annapurna massif crossing Thorong La (5,416 m)",
+    "cat": "11. Transport, Tourism & Heritage"
+  },
+  {
+    "q": "लुम्बिनी विश्व सम्पदा सूचीमा कहिले परेको थियो?",
+    "a": "सन् १९९७",
+    "cat": "11. Transport, Tourism & Heritage"
+  },
+  {
+    "q": "नेपालको रेल सेवा कहाँ सञ्चालनमा छ?",
+    "a": "जनकपुर–जयनगर (कुर्था–जयनगर, भारतसम्म)",
+    "cat": "11. Transport, Tourism & Heritage"
+  },
+  {
+    "q": "नेपालका चार विश्व सम्पदा स्थल कुन हुन्?",
+    "a": "Kathmandu Valley, Lumbini, Sagarmatha National Park and Chitwan National Park",
+    "cat": "11. Transport, Tourism & Heritage"
+  },
+  {
+    "q": "पोखरा–भैरहवा राजमार्गको नाम के हो?",
+    "a": "सिद्धार्थ राजमार्ग",
+    "cat": "11. Transport, Tourism & Heritage"
+  },
+  {
+    "q": "नेपालको सबैभन्दा पुरानो औद्योगिक क्षेत्र कुन हो?",
+    "a": "विराटनगर (जुट मिल, सन् १९३६)",
+    "cat": "12. Land, Agriculture & Resources"
+  },
+  {
+    "q": "नेपालको कृषिको कुल गार्हस्थ्य उत्पादनमा योगदान करिब कति छ?",
+    "a": "करिब २४–२५%",
+    "cat": "12. Land, Agriculture & Resources"
+  },
+  {
+    "q": "जुम्लाको प्रसिद्ध धान कुन हो?",
+    "a": "मार्सी धान",
+    "cat": "12. Land, Agriculture & Resources"
+  },
+  {
+    "q": "हिमाली क्षेत्रमा नुन र अन्नको परम्परागत व्यापार कसरी हुन्थ्यो?",
+    "a": "तिब्बतको नुन र नेपालको अन्न साटासाट गरेर",
+    "cat": "12. Land, Agriculture & Resources"
+  },
+  {
+    "q": "अदुवा उत्पादनका लागि प्रसिद्ध ठाउँ कुन हो?",
+    "a": "पहाडी जिल्ला (जस्तै पाल्पा, सल्यान)",
+    "cat": "12. Land, Agriculture & Resources"
+  },
+  {
+    "q": "नेपाल कृषि अनुसन्धान परिषद् (NARC) को काम के हो?",
+    "a": "कृषि अनुसन्धान र प्रविधि विकास",
+    "cat": "12. Land, Agriculture & Resources"
+  },
+  {
+    "q": "Which crop is grown most widely in Nepal?",
+    "a": "Rice (paddy)",
+    "cat": "12. Land, Agriculture & Resources"
+  },
+  {
+    "q": "Which Nepali districts are famous for tea?",
+    "a": "Ilam and Jhapa",
+    "cat": "12. Land, Agriculture & Resources"
+  },
+  {
+    "q": "Which Nepali district is famous for Marsi rice?",
+    "a": "जुम्ला",
+    "cat": "12. Land, Agriculture & Resources"
+  },
+  {
+    "q": "जुट खेती नेपालको कुन क्षेत्रमा बढी हुन्छ?",
+    "a": "पूर्वी तराई (मोरङ, सुनसरी, झापा)",
+    "cat": "12. Land, Agriculture & Resources"
+  },
+  {
+    "q": "नेपालको बिजुलीको मुख्य स्रोत के हो?",
+    "a": "जलविद्युत्",
+    "cat": "12. Land, Agriculture & Resources"
+  },
+  {
+    "q": "हेटौँडा कुन उद्योगका लागि प्रख्यात छ?",
+    "a": "सिमेन्ट उद्योग",
+    "cat": "12. Land, Agriculture & Resources"
+  },
+  {
+    "q": "अर्गानिक खेती भनेको के हो?",
+    "a": "रासायनिक मल/विषादी नगरी प्राकृतिक विधिले गरिने खेती",
+    "cat": "12. Land, Agriculture & Resources"
+  },
+  {
+    "q": "भूमि सुधार भनेको के हो?",
+    "a": "भूमिको स्वामित्व र उपयोगमा न्यायोचित परिवर्तन गर्ने कार्य",
+    "cat": "12. Land, Agriculture & Resources"
+  },
+  {
+    "q": "बालाजु औद्योगिक क्षेत्र कहाँ छ?",
+    "a": "काठमाडौँ",
+    "cat": "12. Land, Agriculture & Resources"
+  },
+  {
+    "q": "जडिबुटी बढी पाइने क्षेत्र कुन हो?",
+    "a": "हिमाली र उच्च पहाडी क्षेत्र",
+    "cat": "12. Land, Agriculture & Resources"
+  },
+  {
+    "q": "पहाडी क्षेत्रको माटो प्रायः कस्तो हुन्छ?",
+    "a": "पातलो र भू-क्षय हुने (ढुङ्गा-बालुवा मिसिएको)",
+    "cat": "12. Land, Agriculture & Resources"
+  },
+  {
+    "q": "मुस्ताङको मार्फा केका लागि प्रसिद्ध छ?",
+    "a": "स्याउ र स्याउको मदिरा",
+    "cat": "12. Land, Agriculture & Resources"
+  },
+  {
+    "q": "चिया खेतीका लागि प्रख्यात दुई जिल्ला कुन हुन्?",
+    "a": "इलाम र झापा",
+    "cat": "12. Land, Agriculture & Resources"
+  },
+  {
+    "q": "सुन्तला/जुनार खेतीका लागि प्रख्यात ठाउँ कुन हो?",
+    "a": "सिन्धुली",
+    "cat": "12. Land, Agriculture & Resources"
+  },
+  {
+    "q": "हिमाली क्षेत्रमा पशुपालनका लागि प्रयोग हुने पशु कुन हो?",
+    "a": "चौरी, याक र भेडा-बाख्रा",
+    "cat": "12. Land, Agriculture & Resources"
+  },
+  {
+    "q": "जौ र उवा कुन क्षेत्रमा बढी उत्पादन हुन्छ?",
+    "a": "उच्च हिमाली क्षेत्र",
+    "cat": "12. Land, Agriculture & Resources"
+  },
+  {
+    "q": "नेपालका ग्रामीण क्षेत्रमा ऊर्जाको मुख्य स्रोत के हो?",
+    "a": "दाउरा (इन्धन काठ)",
+    "cat": "12. Land, Agriculture & Resources"
+  },
+  {
+    "q": "चिया बगान कुन भू-भागमा सजिलै हुन्छ?",
+    "a": "भिरालो, राम्रो निकास हुने र पर्याप्त वर्षा हुने पहाडी क्षेत्र",
+    "cat": "12. Land, Agriculture & Resources"
+  },
+  {
+    "q": "Which Nepali region is called the 'granary of Nepal'?",
+    "a": "तराई",
+    "cat": "12. Land, Agriculture & Resources"
+  },
+  {
+    "q": "स्याउ खेतीका लागि प्रख्यात दुई ठाउँ कुन हुन्?",
+    "a": "जुम्ला र मुस्ताङ (मार्फा)",
+    "cat": "12. Land, Agriculture & Resources"
+  },
+  {
+    "q": "मकै नेपालका कुन क्षेत्रमा बढी उत्पादन हुन्छ?",
+    "a": "पहाडी क्षेत्र",
+    "cat": "12. Land, Agriculture & Resources"
+  },
+  {
+    "q": "आलु उत्पादनका लागि प्रसिद्ध नेपाली क्षेत्र कुन हो?",
+    "a": "जुम्ला, मुस्ताङ र इलाम",
+    "cat": "12. Land, Agriculture & Resources"
+  },
+  {
+    "q": "अलैँची खेती कुन जिल्लामा प्रसिद्ध छ?",
+    "a": "इलाम, पाँचथर र ताप्लेजुङ",
+    "cat": "12. Land, Agriculture & Resources"
+  },
+  {
+    "q": "सिँढीखेती किन गरिन्छ?",
+    "a": "भिरालो पहाडी जमिनमा माटो कटान रोक्न र खेती गर्न",
+    "cat": "12. Land, Agriculture & Resources"
+  },
+  {
+    "q": "नेपालको कृषि क्षेत्रमा सिँचाइको अभावले के असर गर्छ?",
+    "a": "मनसुनमा निर्भरता र उत्पादन अस्थिर",
+    "cat": "12. Land, Agriculture & Resources"
+  },
+  {
+    "q": "Name two main cash crops of Nepal's Terai.",
+    "a": "Sugarcane and jute (also tobacco and oilseeds)",
+    "cat": "12. Land, Agriculture &
