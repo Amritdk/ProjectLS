@@ -32,10 +32,12 @@ const CONFIG = {
   MANIFEST_URL: ''
 };
 
+// LOCAL use (localhost / file): when no GitHub repo is detected or set, these files are read from your own
+// computer, e.g. data/<file>.json next to index.html. Add one line per local file.
 // Each dataset needs a unique key and ONE source: url (any CORS-enabled link), driveId, or file (relative path).
 // Optional: icon, label, color (card accent). Same shape is used in the remote manifest.
 const DEFAULT_DATASETS = [
-  { key: 'universe',  icon: '🌌', label: 'Universe Questions', file: 'universe_questions_nasu_merged.json' }
+  { key: 'universe',  icon: '🌌', label: 'Universe Questions', file: 'data/universe_questions_nasu_merged.json' }
 ];
 let DATASETS = DEFAULT_DATASETS;
 let SCRIPT_DATA = null; // { datasetKey: [questions] } when SCRIPT_URL mode is used
@@ -380,6 +382,7 @@ function buildDatasetSelect() {
 function handleDatasetChange() {
   activeSource = datasetSelect.value;
   activeCategory = 'all';
+  currentPage = 1;
   renderFilters();
   renderList();
 }
@@ -396,7 +399,7 @@ function renderFilters() {
     const chip = document.createElement('button');
     chip.className = 'chip' + (activeCategory === value ? ' active' : '');
     chip.textContent = text;
-    chip.onclick = () => { activeCategory = value; renderFilters(); renderList(); };
+    chip.onclick = () => { activeCategory = value; currentPage = 1; renderFilters(); renderList(); };
     filtersContainer.appendChild(chip);
   };
   makeChip('all', 'सबै (All Categories)');
@@ -414,6 +417,99 @@ function buildModalCats() {
   }).join('');
 }
 
+// ========== Pagination (user chooses how many questions per page) ==========
+const PAGE_SIZE_KEY = 'loksewa_page_size';
+const PAGE_PRESETS = [10, 20, 50, 100];     // 0 = show all
+let pageSize = loadPageSize();
+let currentPage = 1;
+let pageCount = 1;
+
+function loadPageSize() {
+  try {
+    const v = parseInt(localStorage.getItem(PAGE_SIZE_KEY), 10);
+    if (v === 0 || (v >= 1 && v <= 500)) return v;
+  } catch (e) {}
+  return 20;
+}
+function savePageSize() { try { localStorage.setItem(PAGE_SIZE_KEY, String(pageSize)); } catch (e) {} }
+
+function syncPageSizeUI() {
+  const sel = $('pageSizeSelect'), cus = $('pageSizeCustom');
+  if (!sel || !cus) return;
+  sel.value = pageSize === 0 ? '0' : PAGE_PRESETS.includes(pageSize) ? String(pageSize) : 'custom';
+  cus.style.display = sel.value === 'custom' ? 'inline-block' : 'none';
+  if (sel.value === 'custom') cus.value = pageSize;
+}
+
+function afterPageSizeChange(syncUI) {
+  currentPage = 1;
+  savePageSize();
+  if (syncUI) syncPageSizeUI();
+  renderList();
+}
+
+function renderPager(total, pages, start, count) {
+  pageCount = pages;
+  const info = $('rangeInfo');
+  if (info) info.textContent = total ? `${start + 1}–${start + count} / ${total}` : '';
+  const first = currentPage <= 1 ? 'disabled' : '';
+  const last = currentPage >= pages ? 'disabled' : '';
+  const html = total && pages > 1
+    ? `<button data-pg="first" ${first} title="पहिलो पेज">«</button>` +
+      `<button data-pg="prev" ${first}>‹ अघिल्लो</button>` +
+      `<span class="pg-info">पेज <input type="number" class="pg-input" min="1" max="${pages}" value="${currentPage}" data-pg-input> / ${pages}</span>` +
+      `<button data-pg="next" ${last}>अर्को ›</button>` +
+      `<button data-pg="last" ${last} title="अन्तिम पेज">»</button>`
+    : '';
+  ['pagerTop', 'pagerBottom'].forEach(id => { const el = $(id); if (el) el.innerHTML = html; });
+}
+
+function scrollToToolbar() {
+  const t = $('toolbar');
+  if (t && t.scrollIntoView) t.scrollIntoView({ behavior: 'smooth', block: 'start' });
+}
+
+function onPagerClick(e) {
+  const b = e.target.closest ? e.target.closest('[data-pg]') : null;
+  if (!b || b.disabled) return;
+  const a = b.dataset.pg;
+  if (a === 'first') currentPage = 1;
+  else if (a === 'prev') currentPage--;
+  else if (a === 'next') currentPage++;
+  else if (a === 'last') currentPage = pageCount;
+  renderList();
+  scrollToToolbar();
+}
+
+function onPagerChange(e) {
+  if (!e.target.matches || !e.target.matches('[data-pg-input]')) return;
+  const v = parseInt(e.target.value, 10);
+  if (v) currentPage = v;
+  renderList();
+  scrollToToolbar();
+}
+
+function setupPaging() {
+  const sel = $('pageSizeSelect'), cus = $('pageSizeCustom');
+  syncPageSizeUI();
+  if (sel && cus) {
+    sel.addEventListener('change', () => {
+      pageSize = sel.value === 'custom' ? (parseInt(cus.value, 10) || 25) : parseInt(sel.value, 10);
+      afterPageSizeChange(true);
+    });
+    cus.addEventListener('input', () => {
+      const n = parseInt(cus.value, 10);
+      if (n >= 1) { pageSize = Math.min(n, 500); afterPageSizeChange(false); }
+    });
+  }
+  ['pagerTop', 'pagerBottom'].forEach(id => {
+    const el = $(id);
+    if (!el) return;
+    el.addEventListener('click', onPagerClick);
+    el.addEventListener('change', onPagerChange);
+  });
+}
+
 function renderList() {
   const query = searchInput.value.toLowerCase().trim();
   const filtered = allQuestions.filter(it =>
@@ -428,10 +524,17 @@ function renderList() {
   shownCountEl.textContent = filtered.length;
   listContainer.innerHTML = '';
 
-  if (!filtered.length) { emptyContainer.style.display = 'block'; return; }
+  if (!filtered.length) { emptyContainer.style.display = 'block'; renderPager(0, 1, 0, 0); return; }
   emptyContainer.style.display = 'none';
 
-  filtered.forEach(it => {
+  const size = pageSize > 0 ? pageSize : filtered.length;
+  const pages = Math.max(1, Math.ceil(filtered.length / size));
+  currentPage = Math.min(Math.max(1, currentPage), pages);
+  const start = (currentPage - 1) * size;
+  const pageItems = filtered.slice(start, start + size);
+  renderPager(filtered.length, pages, start, pageItems.length);
+
+  pageItems.forEach(it => {
     const ds = dsOf(it.sourceFile);
     const card = document.createElement('div');
     card.className = 'card ' + (it.custom ? 'user-card' : `${it.sourceFile}-card`);
@@ -546,14 +649,17 @@ function importData(event) {
 document.addEventListener('DOMContentLoaded', async () => {
   searchInput.addEventListener('input', () => {
     clearSearch.style.display = searchInput.value ? 'block' : 'none';
+    currentPage = 1;
     renderList();
   });
   clearSearch.addEventListener('click', () => {
     searchInput.value = '';
     clearSearch.style.display = 'none';
+    currentPage = 1;
     renderList();
   });
   modal.addEventListener('click', e => { if (e.target === modal) closeModal(); });
+  setupPaging();
 
   clearOldCache();
   loadUserQuestions();
