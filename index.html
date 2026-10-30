@@ -133,6 +133,18 @@
     .btn-outline { background: transparent; border: 1px solid var(--border); color: var(--text); }
     .btn-danger { background: var(--danger); color: #0f172a; }
     .list { display: flex; flex-direction: column; gap: 10px; }
+
+    /* Pagination */
+    .toolbar { display: flex; justify-content: space-between; align-items: center; gap: 8px; flex-wrap: wrap; margin-bottom: 10px; font-size: 0.82rem; color: var(--muted); }
+    .toolbar label { display: flex; align-items: center; gap: 6px; flex-wrap: wrap; }
+    .toolbar select, .toolbar input[type=number] { padding: 7px 10px; border-radius: 8px; border: 1px solid var(--border); background: var(--card); color: var(--text); font-size: 0.85rem; outline: none; }
+    .toolbar input[type=number] { width: 76px; display: none; }
+    .pager { display: flex; justify-content: center; align-items: center; gap: 6px; flex-wrap: wrap; margin: 12px 0; }
+    .pager:empty { display: none; }
+    .pager button { padding: 8px 12px; font-size: 0.82rem; background: var(--card); color: var(--text); border: 1px solid var(--border); }
+    .pager button:disabled { opacity: 0.4; cursor: not-allowed; }
+    .pager .pg-info { font-size: 0.85rem; color: var(--muted); display: inline-flex; align-items: center; gap: 6px; }
+    .pager .pg-input { width: 62px; padding: 7px 8px; border-radius: 8px; border: 1px solid var(--border); background: var(--bg); color: var(--text); text-align: center; font-size: 0.9rem; }
     
     /* Card Styles */
     .card {
@@ -300,8 +312,25 @@
       <input type="file" id="importFile" accept=".json" style="display:none" onchange="importData(event)" />
     </div>
 
+    <div class="toolbar" id="toolbar">
+      <label>प्रति पेज प्रश्न:
+        <select id="pageSizeSelect">
+          <option value="10">10</option>
+          <option value="20">20</option>
+          <option value="50">50</option>
+          <option value="100">100</option>
+          <option value="0">सबै (All)</option>
+          <option value="custom">अन्य (Custom)…</option>
+        </select>
+        <input type="number" id="pageSizeCustom" min="1" max="500" placeholder="1–500" />
+      </label>
+      <span id="rangeInfo"></span>
+    </div>
+
+    <div class="pager" id="pagerTop"></div>
     <div class="list" id="list"></div>
     <div class="empty" id="empty" style="display:none">कुनै परिणाम फेला परेन।</div>
+    <div class="pager" id="pagerBottom"></div>
 
     <footer>
       Questions load directly from JSON files.<br>
